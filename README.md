@@ -2,8 +2,7 @@
 
 <!DOCTYPE html>
 <html>
-
-    <head>
+   <head>
         <body>
 
         <table border="10">
