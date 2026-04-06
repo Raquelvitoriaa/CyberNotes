@@ -1,5 +1,4 @@
-# help.html
-ajuda da facu
+# códigos das atividades de html
 
 <!DOCTYPE html>
 <html>
