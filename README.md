@@ -41,17 +41,17 @@
             <td>Talking to the moon</td>
             <td>X</td>
         </tr>
-    <tr>
-        <td></td>
-        <td>Leave the  Door Open</td>
-        <td></td>
-        <td>X</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Die Whith A Smile</td>
-        <td>x</td>
-    </tr>
+        <tr>
+            <td></td>
+            <td>Leave the  Door Open</td>
+            <td></td>
+            <td>X</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Die Whith A Smile</td>
+            <td>x</td>
+        </tr>
         </table>
         <a href="tabelas.html">Home</a>
             </body>
