@@ -58,3 +58,50 @@
         </tr>
     </head>
 </html>
+
+
+================================================================================================================
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<body>
+
+<table border="10">
+<tr>
+<th>Configurações dos Apartamentos</th>
+</tr>
+<tr>
+<td>Todos</td>
+<td>Standard</td>
+<td>Luxo</td>
+</tr>
+<tr>
+<td>Ar-condicionado Frigobar</td>
+<td>17m²</td>
+<td>TV 14"</td>
+<td>21m²</td>
+<td>TV 21"</td>
+</tr>
+<tr>
+<td>Diária por Temporada</td>
+<td>Alta</td>
+<td>Baixa</td>
+</tr>
+<tr>
+<td>x</td>
+<td>R$ 200,00</td>
+<td>R$ 120,00</td>
+</tr>
+<tr>
+<td>x</td>
+<td>R$ 250,00</td>
+<td>R$ 180,00</td>
+</tr>
+</table>
+<a href="new 1.txt">Home</a>
+</body>
+</tr>
+</head>
+</html>
