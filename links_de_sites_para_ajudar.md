@@ -4,7 +4,5 @@ https://www.devmedia.com.br/interface-metro-criando-um-menu-metro-com-html-e-css
 **Como construir uma interface web com HTML e CSS com o basico (Youtube).**
 https://youtu.be/MktgU_fdPAY?si=XAe8bGigqX0YjDT-
 
-14 Hábitos de desenvolvedores...(livro)
-
 **Linguagens de programação e Bancos de Dados**
 https://kbase.com.br/2023/09/26/banco-de-dados-linguagens-de-programacao-e-onde-se-atualizar/
