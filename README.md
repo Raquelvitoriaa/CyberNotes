@@ -79,10 +79,8 @@
 </tr>
 <tr>
 <td>Ar-condicionado Frigobar</td>
-<td>17m²</td>
-<td>TV 14"</td>
-<td>21m²</td>
-<td>TV 21"</td>
+<td>17m² TV 14"</td>
+<td>21m² TV 21"</td>
 </tr>
 <tr>
 <td>Diária por Temporada</td>
