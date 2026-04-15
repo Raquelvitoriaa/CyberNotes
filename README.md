@@ -54,6 +54,7 @@
         </tr>
         </table>
         <a href="tabelas.html">Home</a>
+        <\table>
             </body>
         </tr>
     </head>
