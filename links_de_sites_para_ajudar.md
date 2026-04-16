@@ -12,3 +12,6 @@ https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151
 
 **Site do Guia Completo do Levantamento de Requisitos** 
 https://www.devmedia.com.br/levantamento-requisitos/
+
+**Site que mostra os codigos de cores em linguaguem C**
+https://programacaopratica.com.br/2019/01/18/linguagem-c-colorindo-texto-e-plano-de-fundo-do-console/
