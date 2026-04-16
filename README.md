@@ -4,9 +4,8 @@
 
 Podem conter codigos de:
 
-*HTML;*
-
-*C;*
+* HTML;
+* C.
 
 e também...
 
