@@ -4,9 +4,9 @@
 
 Podem conter codigos de:
 
-*HTML;
-*C;
+*HTML;*
+*C;*
 
 e também...
 
-*Links de vídeos ou sites para nos ajudar-mos
+*Links de vídeos ou sites para nos ajudar-mos*
