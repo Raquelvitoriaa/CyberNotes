@@ -6,3 +6,6 @@ https://youtu.be/MktgU_fdPAY?si=XAe8bGigqX0YjDT-
 
 **Linguagens de programação e Bancos de Dados**
 https://kbase.com.br/2023/09/26/banco-de-dados-linguagens-de-programacao-e-onde-se-atualizar/
+
+**site sobre Levantamento de Requisitos**
+https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151
