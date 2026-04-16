@@ -9,3 +9,6 @@ https://kbase.com.br/2023/09/26/banco-de-dados-linguagens-de-programacao-e-onde-
 
 **site sobre Levantamento de Requisitos**
 https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151
+
+**Site do Guia Completo do Levantamento de Requisitos** 
+https://www.devmedia.com.br/levantamento-requisitos/
