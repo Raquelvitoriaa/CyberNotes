@@ -15,3 +15,6 @@ https://www.devmedia.com.br/levantamento-requisitos/
 
 **Site que mostra os codigos de cores em linguaguem C**
 https://programacaopratica.com.br/2019/01/18/linguagem-c-colorindo-texto-e-plano-de-fundo-do-console/
+
+**Tabelas de cores HTML**
+https://www.homehost.com.br/blog/tutoriais/tabela-de-cores-html/
