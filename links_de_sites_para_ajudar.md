@@ -27,3 +27,6 @@ https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf
 
 **Manual de iniciante C**
 https://www.freecodecamp.org/portuguese/news/o-manual-do-iniciante-em-c-aprenda-o-basico-sobre-a-linguagem-de-programacao-c-em-apenas-algumas-horas/
+
+**Diagrama de Chapin**
+https://www.devmedia.com.br/fluxogramas-diagrama-de-blocos-e-de-chapin-no-desenvolvimento-de-algoritmos/28550
