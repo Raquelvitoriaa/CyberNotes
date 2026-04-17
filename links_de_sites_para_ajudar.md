@@ -18,3 +18,6 @@ https://programacaopratica.com.br/2019/01/18/linguagem-c-colorindo-texto-e-plano
 
 **Tabelas de cores HTML**
 https://www.homehost.com.br/blog/tutoriais/tabela-de-cores-html/
+
+**Programação básica em C**
+https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf
