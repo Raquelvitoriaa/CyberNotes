@@ -5,8 +5,9 @@
 Podem conter codigos de:
 
 * HTML;
-* C.
-
+* C;
+* CSS.
+  
 e também...
 
 * Links de vídeos ou sites para nos ajudarmos
