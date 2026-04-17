@@ -30,3 +30,6 @@ https://www.freecodecamp.org/portuguese/news/o-manual-do-iniciante-em-c-aprenda-
 
 **Diagrama de Chapin**
 https://www.devmedia.com.br/fluxogramas-diagrama-de-blocos-e-de-chapin-no-desenvolvimento-de-algoritmos/28550
+
+**Link do site da Biblioteca da escola**
+https://ficr.pergamum.com.br/
