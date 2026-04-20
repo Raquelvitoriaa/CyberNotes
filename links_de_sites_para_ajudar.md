@@ -33,3 +33,9 @@ https://www.devmedia.com.br/fluxogramas-diagrama-de-blocos-e-de-chapin-no-desenv
 
 **Link do site da Biblioteca da escola**
 https://ficr.pergamum.com.br/
+
+**Canal no YouTube para criar uma tela de login, usando HTML e CSS**
+https://youtu.be/pXAGoP2G2vE?si=_BW_2v4IxbpOh7zV
+
+**Playlist do YouTube para tela de login e cadastrado Responsivo usando HTML e CSS**
+https://youtube.com/playlist?list=PLARhMvcrqcLy3bU1RxbkC7GYH7eHgXI0A&si=SIyfTOV3SaVMgkCa
