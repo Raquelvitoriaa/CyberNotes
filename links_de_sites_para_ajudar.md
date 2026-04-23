@@ -39,3 +39,6 @@ https://youtu.be/pXAGoP2G2vE?si=_BW_2v4IxbpOh7zV
 
 **Playlist do YouTube para tela de login e cadastrado Responsivo usando HTML e CSS**
 https://youtube.com/playlist?list=PLARhMvcrqcLy3bU1RxbkC7GYH7eHgXI0A&si=SIyfTOV3SaVMgkCa
+
+**Códigos de cores em CSS**
+https://www.ranoya.com/books/public/css/corescss.php#Registro%20de%20cores
