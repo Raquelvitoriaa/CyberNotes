@@ -45,3 +45,9 @@ https://youtube.com/playlist?list=PLARhMvcrqcLy3bU1RxbkC7GYH7eHgXI0A&si=SIyfTOV3
 
 **Códigos de cores em CSS**
 https://www.ranoya.com/books/public/css/corescss.php#Registro%20de%20cores
+
+**Site de Diagrama**
+https://mermaid.js.org/
+
+**site de sla**
+https://vercel.com/
