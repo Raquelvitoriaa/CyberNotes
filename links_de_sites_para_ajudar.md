@@ -51,3 +51,6 @@ https://mermaid.js.org/
 
 **site de sla**
 https://vercel.com/
+
+**Site para ajudar na criacao de um site**
+https://vsbattles.fandom.com/wiki/Leviathans_(Supernatural)#Summary
