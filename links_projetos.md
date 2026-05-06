@@ -3,3 +3,7 @@ https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fi
 
 **Exemplos de projeto**
 https://skywork.ai/project/2049840479647772672?scene_idx=0&from=home_query&is_new_project=false
+
+**Site para ajudar no projeto(com artigos e muitas variedades)**
+
+https://scholar.google.com.br/
