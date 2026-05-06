@@ -9,3 +9,6 @@ https://scholar.google.com.br/
 
 **Artigo em ingles sobre mulher**
 https://iris.who.int/server/api/core/bitstreams/cac71b51-59fd-41d1-9586-593352cf472c/content
+
+**Link para traduzir artigos,sites,etc do ingles para o portugues**
+https://www.deepl.com/pt-BR/translator
