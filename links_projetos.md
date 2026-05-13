@@ -12,3 +12,6 @@ https://iris.who.int/server/api/core/bitstreams/cac71b51-59fd-41d1-9586-593352cf
 
 **Link para traduzir artigos,sites,etc do ingles para o portugues**
 https://www.deepl.com/pt-BR/translator
+
+**IA de algo**
+https://huggingface.co/
