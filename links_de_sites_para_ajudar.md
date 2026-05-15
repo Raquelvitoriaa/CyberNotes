@@ -68,3 +68,5 @@ https://docs.github.com/pt/get-started/using-git/splitting-a-subfolder-out-into-
 https://www.cprogressivo.net/2013/02/Criando-um-menu-em-C.html
 **Menu (Vídeo)!**
 https://www.youtube.com/watch?v=dtzQ2T2QMVo&t=270
+
+https://pt.stackoverflow.com/questions/524456/retornar-ao-menu-em-c
