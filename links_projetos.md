@@ -15,3 +15,5 @@ https://www.deepl.com/pt-BR/translator
 
 **IA de algo**
 https://huggingface.co/
+
+https://miro.com/app/board/uXjVHSRSzNA=/?share_link_id=79813017218
