@@ -66,7 +66,15 @@ https://docs.github.com/pt/get-started/using-git/splitting-a-subfolder-out-into-
 
 **Criando menu em C (site)!**
 https://www.cprogressivo.net/2013/02/Criando-um-menu-em-C.html
+
 **Menu (Vídeo)!**
 https://www.youtube.com/watch?v=dtzQ2T2QMVo&t=270
 
 https://pt.stackoverflow.com/questions/524456/retornar-ao-menu-em-c
+
+**Modelagem Conceitual**
+https://www.devmedia.com.br/introducao-a-modelagem-conceitual/10793
+
+**Modelagem Conceitual**
+https://medium.com/@francethais/modelagem-de-banco-de-dados-entidades-relacionamentos-e-atributos-cada1a6e63d0
+<img width="720" height="387" alt="1_WumArt9G-TYjHRBMFYfTtw" src="https://github.com/user-attachments/assets/0de55f06-33d0-48ff-8179-1dc9ac824405" />
