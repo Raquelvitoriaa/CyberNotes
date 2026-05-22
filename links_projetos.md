@@ -17,3 +17,6 @@ https://www.deepl.com/pt-BR/translator
 https://huggingface.co/
 
 https://miro.com/app/board/uXjVHSRSzNA=/?share_link_id=79813017218
+
+**Link sobre o pintch em video**
+https://www.youtube.com/watch?v=irM7lTgriWs
