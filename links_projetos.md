@@ -20,3 +20,6 @@ https://miro.com/app/board/uXjVHSRSzNA=/?share_link_id=79813017218
 
 **Link sobre o pintch em video**
 https://www.youtube.com/watch?v=irM7lTgriWs
+
+**Como criar uma interface no figma**
+https://www.youtube.com/watch?v=J6pP0TFljpo
