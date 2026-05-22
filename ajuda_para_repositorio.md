@@ -48,7 +48,7 @@ nome-da-certificacao/
 ## 📈 Progresso
 
 ```md
-░░░░░░░░░░ 10%
+░░░░░░░░░░ 0%
 ```
 
 ---
