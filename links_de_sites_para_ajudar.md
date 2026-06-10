@@ -1,12 +1,6 @@
 **Site do FreeCodeCamp (cursos de programação)**
 https://www.freecodecamp.org/learn/responsive-web-design-v9/
 
-**Site que ajuda a criar uma interface do ZERO**
-https://www.devmedia.com.br/interface-metro-criando-um-menu-metro-com-html-e-css/31041
-
-**Como construir uma interface web com HTML e CSS com o basico (Youtube).**
-https://youtu.be/MktgU_fdPAY?si=XAe8bGigqX0YjDT-
-
 **Linguagens de programação e Bancos de Dados**
 https://kbase.com.br/2023/09/26/banco-de-dados-linguagens-de-programacao-e-onde-se-atualizar/
 
@@ -36,13 +30,7 @@ https://www.devmedia.com.br/fluxogramas-diagrama-de-blocos-e-de-chapin-no-desenv
 
 **Link do site da Biblioteca da escola**
 https://ficr.pergamum.com.br/
-
-**Canal no YouTube para criar uma tela de login, usando HTML e CSS**
-https://youtu.be/pXAGoP2G2vE?si=_BW_2v4IxbpOh7zV
-
-**Playlist do YouTube para tela de login e cadastrado Responsivo usando HTML e CSS**
-https://youtube.com/playlist?list=PLARhMvcrqcLy3bU1RxbkC7GYH7eHgXI0A&si=SIyfTOV3SaVMgkCa
-
+ 
 **Códigos de cores em CSS**
 https://www.ranoya.com/books/public/css/corescss.php#Registro%20de%20cores
 
