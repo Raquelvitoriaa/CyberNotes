@@ -16,3 +16,5 @@ https://youtu.be/MktgU_fdPAY?si=XAe8bGigqX0YjDT-
 **Site que ajuda a criar uma interface do ZERO**
 https://www.devmedia.com.br/interface-metro-criando-um-menu-metro-com-html-e-css/31041
 
+**Como fazer uma Landing Page com HTML, CSS e JavaScript**
+https://youtu.be/ik-njdH5Q5c?is=_8Xrp-9o4uy-f0rE
