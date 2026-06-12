@@ -13,7 +13,10 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 </p>
 
 <p align="center">
-<img src="https://Shield.io/badge/STATUS-ONLINE-00FFFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FFFF?style=for-the-badge">
+</p>
+
+
 # códigos das atividades de html
 **Arquivo Criado para nos ajudarmos nas aulas de programação!!**
 
