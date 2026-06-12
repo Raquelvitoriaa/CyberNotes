@@ -15,6 +15,7 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFFF?style=for-the-badge">
 <img src="https://img.shields.io/badge/VERSION-1.0-FF00FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-A020F0?style=for-the-badge">
 </p>
 
 
