@@ -5,10 +5,15 @@
 <h1 align="center">🌃CyberNotes</h1>
 
 <p align="center">
-<strong>Cyber Knowledge Base</strong><br>
-Uma base de conhecimento para armazenar códigos, anotações e recursos de programação.
+<strong>Cyber Knowledge Database for Future Developers</strong>
 </p>
 
+<p align="center">
+Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolução contínua no mundo da programação.
+</p>
+
+<p align="center">
+<img src="https://Shield.io/badge/STATUS-ONLINE-00FFFF?style=for-the-badge">
 # códigos das atividades de html
 **Arquivo Criado para nos ajudarmos nas aulas de programação!!**
 
