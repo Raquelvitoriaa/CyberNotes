@@ -3,8 +3,13 @@
 </p>
 
 <h1 align="center">🌃CyberNotes</h1>
-# códigos das atividades de html
 
+<p align="center">
+<strong>Cyber Knowledge Base</strong><br>
+Uma base de conhecimento para armazenar códigos, anotações e recursos de programação.
+</p>
+
+# códigos das atividades de html
 **Arquivo Criado para nos ajudarmos nas aulas de programação!!**
 
 Podem conter codigos de:
