@@ -18,16 +18,8 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 <img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-A020F0?style=for-the-badge">
 </p>
 
+---
 
-# códigos das atividades de html
-**Arquivo Criado para nos ajudarmos nas aulas de programação!!**
+# 📡 Inicializando Sistema...
 
-Podem conter codigos de:
-
-* HTML;
-* C;
-* CSS.
-  
-e também...
-
-* Links de **vídeos** ou **sites** para nos ajudarmos
+Bem-Vido ao **CyberNotes**.
