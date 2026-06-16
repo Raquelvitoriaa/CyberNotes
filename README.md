@@ -20,6 +20,12 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 
 ---
 
-# 📡 Inicializando Sistema...
+# 📡 SYSTEM BOOT
 
-Bem-Vido ao **CyberNotes**.
+```text
+> Initializing CyberNotes...
+
+[] Database loaded
+[] Knowledge modules loaded
+[] Learning resources
+[]
