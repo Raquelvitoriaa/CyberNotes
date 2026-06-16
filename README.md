@@ -47,12 +47,12 @@ Mais do que um simples repositório, o CyberNotes é um registro de evolução c
 
 # 🎯 Objetivos
 
-✔️ Organizar conteúdos estudados
-✔️ Documentar conhecimentos adquiridos
-✔️ Facilitar revisões futuras
-✔️ Armazenar exemplos de código 
-✔️ Centralizar recursos importantes 
-✔️ Compartilhar conhecimento com a comunidade
+- [x] Organizar conteúdos estudados
+- [x] Documentar conhecimentos adquiridos
+- [x] Facilitar revisões futuras
+- [x] Armazenar exemplos de código 
+- [x] Centralizar recursos importantes 
+- [x] Compartilhar conhecimento com a comunidade
 
 ---
 
