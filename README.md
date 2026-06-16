@@ -25,7 +25,75 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 ```text
 > Initializing CyberNotes...
 
-[] Database loaded
-[] Knowledge modules loaded
-[] Learning resources
-[]
+[OK] Database loaded
+[OK] Knowledge modules loaded
+[OK] Learning resources synchronized
+[OK] Documentation online
+
+System ready.
+```
+
+---
+
+#⚡️Sobre o Projeto
+
+O **CyberNotes** é uma base de conhecimento digital criada para armazenar e organizar conteúdos relacionados ao aprendizado de programação.
+
+Este repositório funciona como um arquivo pessoal de estudos, contendo anotações, códigos, exercícios, referências e recursos úteis para consulta durante a jornada como desenvolvedora.
+
+Mais do que um simples repositório, o CyberNotes é um registro de evolução contínua no universo da tecnologia.
+
+---
+
+# 🎯 Objetivos
+
+✔️ Organizar conteúdos estudados
+✔️ Documentar conhecimentos adquiridos
+✔️ Facilitar revisões futuras
+✔️ Armazenar exemplos de código 
+✔️ Centralizar recursos importantes 
+✔️ Compartilhar conhecimento com a comunidade
+
+---
+
+# 🗂 Estrutura do Repositório
+
+```text
+📦 CyberNotes
+│
+├── 📂 html
+│   ├── tags.md
+│   ├── formularios.md
+│   ├── tabelas.md
+│   └── semantica.md
+│
+├── 📂 css
+│   ├── seletores.md
+│   ├── flexbox.md
+│   ├── grid.md
+│   └── responsividade.md
+│
+├── 📂 c
+│   ├── variaveis.md
+│   ├── condicionais.md
+│   ├── loops.md
+│   └── funcoes.md
+│
+├── 📂 recursos
+│   ├── sites-uteis.md
+│   ├── projetos.md
+│   ├── repositorios.md
+│   └── imagens.md
+│
+├── 📂 assets
+│   ├── banner.gif
+│   ├── previews
+│   └── icones
+│
+└── README.md
+```
+
+---
+
+# 🌐 Módulo HTML
+
