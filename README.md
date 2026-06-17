@@ -101,13 +101,13 @@ Conteúdos voltados para a Estruturação de páginas web.
 
 ### Assuntos
 
-• Estrutura básica HTML
-• Tags principais
-• Links
-• Imagens
-• Tabelas
-• Formulários
-• HTML Semântico
+* Estrutura básica HTML
+* Tags principais
+* Links
+* Imagens
+* Tabelas
+* Formulários
+* HTML Semântico
 
 ---
 
