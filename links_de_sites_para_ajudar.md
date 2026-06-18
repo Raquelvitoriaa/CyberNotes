@@ -78,3 +78,6 @@ https://profile-readme-generator.com/pt-BR
 
 **Diagrama Entidade-Relacionamento**
 <img width="886" height="471" alt="image-679" src="https://github.com/user-attachments/assets/27c4f033-e21c-421d-9946-27336308cbef" />
+
+**Modelo Conceitual e Lógico**
+https://www.estrategiaconcursos.com.br/blog/modelo-conceitual-logico-sefaz-sp/
