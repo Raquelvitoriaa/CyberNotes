@@ -1,4 +1,5 @@
 **1 - prompot**
+
 qual prompot eu faco para o chatgpt fazer um README do github com o tema Cyberpunk onde cada pasta vai ser uma materia do curso e vai ser dividida em 5 periodos. as materias sao relacao principios e valores, linguagem de marcaco e formatacao, introducao a banco de dados, residencia tecnologica, logica matematica e algoritmo. OBS: essas sao as dos primeiro periodo, minha ideia e fazer um caderno digital, contendo links que ajude nas materias, resumos sobre as aulas, assuntos que estamos estudando ou vamos estudar, etc. poderia ajudar??
 
 **2 - Prompt**
