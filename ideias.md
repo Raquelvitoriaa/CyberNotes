@@ -408,3 +408,39 @@ Obrigado por acessar a Neural Academic Database.
 ├── 📂 Periodo-03
 ├── 📂 Periodo-04
 └── 📂 Periodo-05
+
+**ANTIGA PASTA**
+```text
+📦 CyberNotes
+│
+├── 📂 html
+│   ├── tags.md
+│   ├── formularios.md
+│   ├── tabelas.md
+│   └── semantica.md
+│
+├── 📂 css
+│   ├── seletores.md
+│   ├── flexbox.md
+│   ├── grid.md
+│   └── responsividade.md
+│
+├── 📂 c
+│   ├── variaveis.md
+│   ├── condicionais.md
+│   ├── loops.md
+│   └── funcoes.md
+│
+├── 📂 recursos
+│   ├── sites-uteis.md
+│   ├── projetos.md
+│   ├── repositorios.md
+│   └── imagens.md
+│
+├── 📂 assets
+│   ├── banner.gif
+│   ├── previews
+│   └── icones
+│
+└── README.md
+```
