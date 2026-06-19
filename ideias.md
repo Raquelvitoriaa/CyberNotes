@@ -24,8 +24,10 @@ Dentro da seção de cada matéria do 1º Período, o README deve conter uma est
 
 Por fim, adicione uma seção inicial de "Status do Sistema" (com o meu nome, curso e progresso atual) e uma seção final de "Logs de Conexão" para as minhas redes sociais. Escreva todo o texto em português.
 
+**3 - Prompt**
+como eu deveria fazer cada pasta e arquivos?
 
-**Resultado**
+**1 - Resultado**
 # 🌃 CYBER NOTEBOOK // FACULDADE.exe
 
 ```txt
@@ -357,3 +359,52 @@ Obrigado por acessar a Neural Academic Database.
 ```
 
 ⚡ **Fim da transmissão.**
+
+**2 - Resultado**
+
+📦 CyberNotebook
+│
+├── README.md
+│
+├── 📂 Periodo-01
+│   │
+│   ├── 📂 Relacao-Principios-e-Valores
+│   │   ├── README.md
+│   │   ├── 📂 Resumos
+│   │   │   ├── Aula-01.md
+│   │   │   ├── Aula-02.md
+│   │   │   └── Aula-03.md
+│   │   ├── 📂 Exercicios
+│   │   └── 📂 Materiais
+│   │
+│   ├── 📂 Linguagem-de-Marcacao-e-Formatacao
+│   │   ├── README.md
+│   │   ├── 📂 Resumos
+│   │   ├── 📂 Exercicios
+│   │   ├── 📂 Projetos
+│   │   └── 📂 Materiais
+│   │
+│   ├── 📂 Introducao-a-Banco-de-Dados
+│   │   ├── README.md
+│   │   ├── 📂 Resumos
+│   │   ├── 📂 Exercicios
+│   │   ├── 📂 SQL
+│   │   └── 📂 Materiais
+│   │
+│   ├── 📂 Residencia-Tecnologica
+│   │   ├── README.md
+│   │   ├── 📂 Resumos
+│   │   ├── 📂 Projetos
+│   │   └── 📂 Materiais
+│   │
+│   └── 📂 Logica-Matematica-e-Algoritmo
+│       ├── README.md
+│       ├── 📂 Resumos
+│       ├── 📂 Exercicios
+│       ├── 📂 Algoritmos
+│       └── 📂 Materiais
+│
+├── 📂 Periodo-02
+├── 📂 Periodo-03
+├── 📂 Periodo-04
+└── 📂 Periodo-05
