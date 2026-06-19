@@ -81,3 +81,6 @@ https://profile-readme-generator.com/pt-BR
 
 **Modelo Conceitual e Lógico**
 https://www.estrategiaconcursos.com.br/blog/modelo-conceitual-logico-sefaz-sp/
+
+**Customizacao do readme**
+https://profile-readme-generator.com/pt-BR
