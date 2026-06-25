@@ -31,15 +31,7 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 |                          |                      |
 |                          |                      |
 |                          |                      |
-|                          |                      
-
-```bash
-> Initializing CyberNotes...
-> boot_sequence...
-> loading academic modules...
-> status: ONLINE
-```
-
+|                          |                      |
 
 
 ---
