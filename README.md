@@ -38,8 +38,6 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 > boot_sequence...
 > loading academic modules...
 > status: ONLINE
-
-System ready.
 ```
 
 
