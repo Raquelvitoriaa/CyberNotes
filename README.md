@@ -22,8 +22,22 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 
 # 📡 SYSTEM BOOT
 
+| Propiedade               | Valor                |
+| ------------------------ | -------------------- |
+|                          |                      |
+|                          |                      |
+|                          |                      |
+|                          |                      |
+|                          |                      |
+|                          |                      |
+|                          |                      |
+|                          |                      
+
 ```text
 > Initializing CyberNotes...
+> boot_sequence...
+> loading academic modules...
+> status: ONLINE
 
 [OK] Database loaded
 [OK] Knowledge modules loaded
@@ -32,6 +46,8 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 
 System ready.
 ```
+
+
 
 ---
 
