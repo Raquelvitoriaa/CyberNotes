@@ -38,13 +38,6 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 > boot_sequence...
 > loading academic modules...
 > status: ONLINE
-```
-
-```text
-[OK] Database loaded
-[OK] Knowledge modules loaded
-[OK] Learning resources synchronized
-[OK] Documentation online
 
 System ready.
 ```
