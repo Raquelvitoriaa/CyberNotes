@@ -33,12 +33,14 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 |                          |                      |
 |                          |                      
 
-```text
+```bash
 > Initializing CyberNotes...
 > boot_sequence...
 > loading academic modules...
 > status: ONLINE
+```
 
+```text
 [OK] Database loaded
 [OK] Knowledge modules loaded
 [OK] Learning resources synchronized
