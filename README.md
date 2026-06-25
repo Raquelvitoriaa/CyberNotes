@@ -33,6 +33,12 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 |    Conhecimento Sicronizado   |                              |
 |    Rede Neural Acadêmica      |                              |
 
+```bash
+> boot_sequence...
+> loading academic modules...
+> initializing knowledge database...
+> status: ONLINE
+```
 
 ---
 
