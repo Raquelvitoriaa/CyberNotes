@@ -65,7 +65,19 @@ Mais do que um simples repositório, o CyberNotes é um registro de evolução c
 
 # 🗂 Estrutura do Repositório
 
-
+```text
+   CyberNotes
+┣ 📂 Periodo_1
+| ┣ 📂
+| ┣ 📂
+| ┣ 📂
+| ┣ 📂
+| ┗ 📂
+┣
+┣
+┣
+┣
+```
 
 ---
 
