@@ -22,16 +22,16 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 
 # 📡 SYSTEM BOOT
 
-| Propiedade               | Valor                |
-| ------------------------ | -------------------- |
-|                          |                      |
-|                          |                      |
-|                          |                      |
-|                          |                      |
-|                          |                      |
-|                          |                      |
-|                          |                      |
-|                          |                      |
+| Propiedade                    | Valor                        |
+| ----------------------------- | ---------------------------- |
+|    Usuário                    |   **Raquel Vitória**         |
+|    Curso                      |   **ADS**                    |
+|    Instituição                |                              |
+|    Início da Jornada          |                              |
+|    Status                     |                              |
+|    Período Atual              |                              |
+|    Conhecimento Sicronizado   |                              |
+|    Rede Neural Acadêmica      |                              |
 
 
 ---
