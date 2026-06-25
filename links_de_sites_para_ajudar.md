@@ -84,3 +84,6 @@ https://www.estrategiaconcursos.com.br/blog/modelo-conceitual-logico-sefaz-sp/
 
 **Customizacao do readme**
 https://profile-readme-generator.com/pt-BR
+
+**streak status**
+https://github.com/denvercoder1/github-readme-streak-stats
