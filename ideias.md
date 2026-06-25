@@ -444,3 +444,6 @@ Obrigado por acessar a Neural Academic Database.
 │
 └── README.md
 ```
+
+
+https://chatgpt.com/?utm_source=google&utm_medium=paid_search&utm_campaign=GOOG_C_SEM_GBR_Core_CHT_BAU_ACQ_PER_MIX_ALL_LATAM_BR_PT_120624&c_id=21990631164&c_agid=176757374629&c_kwid=kwd-1927227100722&c_ims=&c_pms=9210637&c_nw=g&c_dvc=c&gad_source=1&gad_campaignid=21990631164&gbraid=0AAAAA-I0E5edDB-nHiSBdYSx4zmkkQD4X&gclid=EAIaIQobChMIh4rV4ZeilQMVr2FIAB35BzWaEAAYASAAEgL_EvD_BwE
