@@ -447,3 +447,8 @@ Obrigado por acessar a Neural Academic Database.
 
 
 https://chatgpt.com/?utm_source=google&utm_medium=paid_search&utm_campaign=GOOG_C_SEM_GBR_Core_CHT_BAU_ACQ_PER_MIX_ALL_LATAM_BR_PT_120624&c_id=21990631164&c_agid=176757374629&c_kwid=kwd-1927227100722&c_ims=&c_pms=9210637&c_nw=g&c_dvc=c&gad_source=1&gad_campaignid=21990631164&gbraid=0AAAAA-I0E5edDB-nHiSBdYSx4zmkkQD4X&gclid=EAIaIQobChMIh4rV4ZeilQMVr2FIAB35BzWaEAAYASAAEgL_EvD_BwE
+
+
+https://readme-typing-svg.demolab.com/demo/?color=A10000&lines=Carry+on+my+wayward+son...;There%60ll+be+peace+when+you+are+done...;Lay+your+weary+head+to+rest...;Don%60t+you+cry+no+more...
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A10000&width=435&lines=Carry+on+my+wayward+son...;There%60ll+be+peace+when+you+are+done...;Lay+your+weary+head+to+rest...;Don%60t+you+cry+no+more..." alt="Typing SVG" /></a>
