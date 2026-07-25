@@ -66,21 +66,40 @@ Mais do que um simples repositório, o CyberNotes é um registro de evolução c
 # 🗂 Estrutura do Repositório
 
 ```text
-📦 CyberNotes
+📂 1-periodo
 │
-├── 📂 1-periodo
-│   ├── 📂 linguagem-de-marcacao-e-formatacao
-│   ├── 📂 logica-matematica-e-algoritmos
-│   ├── 📂 relacoes-principios-e-valores
-│   ├── 📂 residencia-tecnologica
-│   └── 📂 introducao-a-banco-de-dados
+├── 📂 linguagem-de-marcacao-e-formatacao
+│   ├── README.md
+│   ├── unidade-1.md
+│   ├── unidade-2.md
+│   ├── unidade-3.md
+│   ├── exercicios.md
+│   └── referencias.md
 │
-├── 📂 
-│   ├── 
-│   ├── 
-│   └── 
+├── 📂 logica-matematica-e-algoritmos
+│   ├── README.md
+│   ├── unidade-1.md
+│   ├── unidade-2.md
+│   ├── unidade-3.md
+│   └── exercicios.md
 │
-└── README.md
+├── 📂 relacoes-principios-e-valores
+│   ├── README.md
+│   └── anotacoes.md
+│
+├── 📂 residencia-tecnologica
+│   ├── README.md
+│   ├── unidade-1.md
+│   ├── unidade-2.md
+│   ├── unidade-3.md
+│   └── exercicios.md
+│
+└── 📂 introducao-a-banco-de-dados
+    ├── README.md
+    ├── modelagem-conceitual.md
+    ├── modelagem-logica.md
+    ├── normalizacao.md
+    └── sql.md
 ```
 
 ---
@@ -100,11 +119,54 @@ Disciplina voltada ao desenvolvimento de páginas web utilizando HTML e CSS, apr
 #### Unidade I
 - Como a Web funciona
 - Servidores Web
-- 
+- Introdução ao HTML
+- Mudanças no HTML 
+- Estrutura do HTML 
+- Formatação de textos 
+- Listas e Sublistas 
+- Estrutura de um site 
+- Conhecendo a tag `<div>`
+- Atributos e Links 
 
+#### Unidade II
+- Tabelas
+----
+#### Unidade III
 
 ---
 
-# Módulo CSS
+## Relação: Princípios e Valores
 
-Conteúdos rela
+#### Unidade I
+
+#### Unidade II
+
+#### Unidade III
+
+---
+
+## Residência Tecnológica I
+
+#### Unidade I
+
+#### Unidade II
+
+#### Unidade III
+---
+
+## Introdução a Bancos de Dados 
+#### Unidade I
+
+#### Unidade II
+
+#### Unidade III
+---
+
+## Lógica Matemática e Algoritmos
+
+#### Unidade I
+
+#### Unidade II
+
+#### Unidade III
+--
