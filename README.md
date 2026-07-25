@@ -66,34 +66,42 @@ Mais do que um simples repositório, o CyberNotes é um registro de evolução c
 # 🗂 Estrutura do Repositório
 
 ```text
-   CyberNotes
-┣ 📂 Periodo_1
-| ┣ 📂
-| ┣ 📂
-| ┣ 📂
-| ┣ 📂
-| ┗ 📂
-┣
-┣
-┣
-┣
+📦 CyberNotes
+│
+├── 📂 1-periodo
+│   ├── 📂 linguagem-de-marcacao-e-formatacao
+│   ├── 📂 logica-matematica-e-algoritmos
+│   ├── 📂 relacoes-principios-e-valores
+│   ├── 📂 residencia-tecnologica
+│   └── 📂 introducao-a-banco-de-dados
+│
+├── 📂 
+│   ├── 
+│   ├── 
+│   └── 
+│
+└── README.md
 ```
 
 ---
 
-# 🌐 Módulo HTML
+# Disciplinas do 1º período
 
-Conteúdos voltados para a Estruturação de páginas web. 
+O primeiro período do curso de **Análise e Desenvolvimento de Sistemas (ADS)** é composto por disciplinas que desenvolvem os fundamentos da programação, da lógica computacional, do desenvolvimento web, dos bancos de dados e da formação humana e profissional.
 
-### Assuntos
+---
 
-* Estrutura básica HTML
-* Tags principais
-* Links
-* Imagens
-* Tabelas
-* Formulários
-* HTML Semântico
+## Linguagem de Marcação e Formatação
+
+Disciplina voltada ao desenvolvimento de páginas web utilizando HTML e CSS, apresentando os principais conceitos da estruturação e estilização de sites.
+
+### Conteúdos Estudados
+
+#### Unidade I
+- Como a Web funciona
+- Servidores Web
+- 
+
 
 ---
 
