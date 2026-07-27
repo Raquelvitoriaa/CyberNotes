@@ -42,7 +42,7 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 
 ---
 
-#⚡️Sobre o Projeto
+# ⚡️Sobre o Projeto
 
 O **CyberNotes** é uma base de conhecimento digital criada para armazenar e organizar conteúdos relacionados ao aprendizado de programação.
 
