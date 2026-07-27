@@ -130,7 +130,16 @@ Disciplina voltada ao desenvolvimento de páginas web utilizando HTML e CSS, apr
 
 #### Unidade II
 - Tabelas
-----
+- Formulários
+- CSS e Seletores
+- Fontes, textos, margens e espaçamentos
+- Position, Float e outras propriedades
+- Menu com Listas e Submenus
+- Layouts
+- Overflow e outros recursos
+- Formatação de campos em formulários
+- Formatação de botões
+
 #### Unidade III
 
 ---
