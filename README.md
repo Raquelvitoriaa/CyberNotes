@@ -142,23 +142,65 @@ Disciplina voltada ao desenvolvimento de páginas web utilizando HTML e CSS, apr
 
 #### Unidade III
 
+- Acessibilidade na Web
+- Ajustes finais do projeto
+
 ---
 
 ## Relação: Princípios e Valores
 
+Disciplina voltada para o desenvolvimento pessoal, ético e profissional durante a formação acadêmica.
+
 #### Unidade I
+
+- Reflexão sobre a trajetória pessoal
+- Quem sou eu?
+- Projeto de vida
+- Relações humanas
+- Relação consigo mesmo, com o outro, natureza e transcendência 
 
 #### Unidade II
 
+- Ética e Moral
+- Ensino Superior
+- Função social da universidade
+- Competências acadêmicas
+- Habilidades de percepção
+- Argumentação
+- Produção textual
+- Comunicação oral
+- Atividades práticas
+
 #### Unidade III
+
+- Espiritualidade 
+- Debate e feedback sobre a disciplina
 
 ---
 
 ## Residência Tecnológica I
 
+Disciplina que apresenta os fundamentos da computação e introduz o estudante ao desenvolvimento de algoritmos e programação em C.
+
+### Conteúdos Estudados
+
 #### Unidade I
 
+- Introdução aos algoritmos
+- Formas de representação 
+- Narrativa
+- Fluxograma 
+- Pseudocódigo 
+- Variáveis
+- Constantes
+- Instruções
+- Operadores
+- Comandos sequênciais
+
 #### Unidade II
+
+-
+--------
 
 #### Unidade III
 ---
