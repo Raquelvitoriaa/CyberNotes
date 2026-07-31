@@ -199,25 +199,103 @@ Disciplina que apresenta os fundamentos da computação e introduz o estudante a
 
 #### Unidade II
 
--
---------
+- Estruturas condicionais
+- Estruturas de repetição (while)
+- Estruturas de repetição (for)
+- Estrutura de repetição (do-while)
 
 #### Unidade III
+- Ponteiros
+- Funções
+- Vetores
+- Strings
+- Estruturas (struct)
+- Arquivos
+
 ---
 
 ## Introdução a Bancos de Dados 
-#### Unidade I
 
-#### Unidade II
+Disciplina que apresenta os conceitos fundamentais da modelagem de dados e da construção de bancos de dados relacionais.
 
-#### Unidade III
+### Conteúdos Estudados
+
+#### Introdução
+
+- Conceitos básicos
+- História dos bancos de dados
+
+#### Modelagem Conceitual
+
+- Entidades
+- Relacionamentos
+- Cardinalidade
+- Tipos de notação
+- Atributos
+- Ferramentas de modelagem
+- Estratégias de modelagem
+
+#### Modelagem Lógica
+
+- Tabelas 
+- Chaves
+
+#### Normalização
+
+- Primeira Forma Normal (1FN)
+- Segunda Forma Normal (2FN)
+- Terceira Forma Normal (3FN)
+
+#### Engenharia Reversa
+
+- Conversão do modelo físico para o modelo conceitual
+
 ---
 
 ## Lógica Matemática e Algoritmos
 
+Disciplina responsável pelo desenvolvimento do raciocínio lógico e da resolução de problemas computacionais.
+
+### Conteúdos Estudados
+
 #### Unidade I
+
+- Introdução à Lógica Matemática
+- Proposições e conectivos
+- Operações lógicas 
+- Tabelas-verdade
+- Equivalência lógica
+- Argumento lógico
 
 #### Unidade II
 
+- Algoritmos
+- Tipos primitivos de dados
+- Variáveis
+- Constantes
+- Operadores aritméticos
+- Operadores lógicos e relacionais
+
 #### Unidade III
---
+
+- Estrutura condicionais
+- Estrutura de repetição (for, while e do-while)
+- Strings
+
+---
+
+## Próximos Períodos
+
+- [] Em atualização conforme avanço no curso
+
+---
+
+# Status do Conhecimento
+
+```text
+[██████████] Linguagem de Marcação e Formatação
+[██████████] Relações, Princípios e Valores
+[██████████] Residência Tecnológica I
+[██████████] Introdução a Bancos de Dados
+[██████████] Lógica Matemática e Algoritmos
+```
