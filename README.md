@@ -284,6 +284,78 @@ Disciplina responsável pelo desenvolvimento do raciocínio lógico e da resolu�
 
 ---
 
+# Disciplinas do 2º Período
+
+O segundo período aprofunda os conhecimentos adquiridos no primeiro semestre, introduzindo conceitos de programação orientada a objetos, estruturas de dados, arquitetura de software, interfaces humano-computador e bancos de dados aplicados.
+
+---
+
+## Estrutura de Dados
+
+Disciplina voltada ao estudo das principais estruturas utilizadas para armazenar, organizar e manipular dados, além dos algoritmos de busca e ordenação.
+
+### Conteúdos Estudados
+
+- Tipos de Dados
+- Estruturas de Dados
+- Tipos Abstratos de Dados (TAD)
+- Pilhas
+- Filas
+- Filas Circulares
+- Listas Encadeadas
+- Listas Simplesnente Encadeadas
+- Listas Duplamente Encadeadas
+- Ponteiros
+- árvores
+- Árvores Binárias de Busca(BST)
+- Percursos em Árvores
+- Pré-Ordem
+- Busca em Largura
+- Métodos de Pesquisa
+- Sequencial
+- Binária
+- Algoritmos de Ordenação
+- Bolha (Bubble Sort)
+- Inserção (Insertion Sort)
+- Seleção (Selection Sort)
+- QuickSort
+
+---
+
+## Residencia Tecnológica II
+
+Disciplina prática voltada ao desenvolvimento de aplicações utilizando java e conceitos modernos de programação.
+
+### Conteúdos Estudados
+
+- Programação Estruturada
+- Programação Orientada a Objetos
+- Programação em Java
+- Conceitos Básicos em Java
+- Classes
+- Objetos
+- Métodos
+- Atributos
+- Construtores
+- Sobrecarga
+- Instanciação de Objetos
+- Referência
+
+---
+
+## Programação Orientada a Objeto
+
+---
+
+## Arquitetura de Software e IMH
+
+---
+
+## Banco de Dados Aplicados
+
+
+---
+
 ## Próximos Períodos
 
 - [] Em atualização conforme avanço no curso
