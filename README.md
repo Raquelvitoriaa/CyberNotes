@@ -27,7 +27,7 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 |    Usuário                    |   **Raquel Vitória**         |
 |    Curso                      |   **ADS**                    |
 |    Instituição                |                              |
-|    Início da Jornada          |                              |
+|    Início da Jornada          |   ****                           |
 |    Status                     |                              |
 |    Período Atual              |                              |
 |    Conhecimento Sicronizado   |                              |
