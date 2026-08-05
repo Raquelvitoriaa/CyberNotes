@@ -339,15 +339,57 @@ Disciplina prática voltada ao desenvolvimento de aplicações utilizando java e
 - Construtores
 - Sobrecarga
 - Instanciação de Objetos
-- Referência
+- Referência de Ubjetos
+- Desenvolvimento Web
+- HTML
+- CSS
+- JavaScript
 
 ---
 
 ## Programação Orientada a Objeto
 
+Disciplina responsável por apresentar o paradigma de orientação a objetos utilizando Java.
+
+### Conteúdos Estudados
+
+- Introdução á Orientação a Objetos
+- Linguagens Orientadas a Prjetos
+- Programação Orieentada a Objetos em Java
+- Classes
+- Objetos
+- Atributos
+- Métodos
+- Construtores
+- Sobrecarga
+- Instanciação de Objetos
+- Referência de Objetos
+- Envio de Mensagens
+- Ciclo de Vida de um Objeto
+- Abstração
+- Encapsulamento
+- Herança
+- Hierarquia de Classes
+- Classes Abstratas
+- Interfaces
+- Relacionamento entre Classes
+- Polimorfismo
+- Ligação Dinâmica (Dynamic Binding)
+- Tratamento de Exceções
+
 ---
 
 ## Arquitetura de Software e IMH
+
+Disciplina dedicada ao estudo da organização de software e da interação entre usuários e aplicações.
+
+### Conteúdos Estudados
+
+- Fundamentos de Arquitetura de Software
+- Padrões Arquiteturais
+- Estilos Arquiteturais
+- Documentação de Arquiteturas
+- Linguagens de Descrição de Arquitetura
 
 ---
 
