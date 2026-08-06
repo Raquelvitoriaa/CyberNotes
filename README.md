@@ -5,7 +5,7 @@
 <h1 align="center">🌃CyberNotes</h1>
 
 <p align="center">
-<strong>Cyber Knowledge Database for Future Developers</strong>
+Meu caderno digital da graduação em <strong>Análise e Desenvolvimento de Sistemas</strong>.
 </p>
 
 <p align="center">
@@ -44,11 +44,11 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 
 # ⚡️Sobre o Projeto
 
-O **CyberNotes** é uma base de conhecimento digital criada para armazenar e organizar conteúdos relacionados ao aprendizado de programação.
+O **CyberNotes** é um repositório criado para centralizar todas as minhas anotações durante a graduação em **Análise e Desenvolvimento de Sistemas(ADS)**.
 
-Este repositório funciona como um arquivo pessoal de estudos, contendo anotações, códigos, exercícios, referências e recursos úteis para consulta durante a jornada como desenvolvedora.
+Aqui documentando os conteúdos vistos em sala de aula, resumos, exemplos de código, exercícios, pesquisas, referências, desafios e materias complementares.
 
-Mais do que um simples repositório, o CyberNotes é um registro de evolução contínua no universo da tecnologia.
+A ideia é transformar este repositório em uma **base de conhecimento**, registrando toda a minha evolução durante a faculdade.
 
 ---
 
@@ -59,8 +59,8 @@ Mais do que um simples repositório, o CyberNotes é um registro de evolução c
 - [x] Facilitar revisões futuras
 - [x] Armazenar exemplos de código 
 - [x] Centralizar recursos importantes 
-- [x] Compartilhar conhecimento com a comunidade
-
+- [x] Compartilhar conhecimento
+- [x] Criar resumos de cada aulas
 ---
 
 # 🗂 Estrutura do Repositório
@@ -68,47 +68,15 @@ Mais do que um simples repositório, o CyberNotes é um registro de evolução c
 ```text
 📂 1-periodo
 │
-├── 📂 linguagem-de-marcacao-e-formatacao
-│   ├── README.md
-│   ├── unidade-1.md
-│   ├── unidade-2.md
-│   ├── unidade-3.md
-│   ├── exercicios.md
-│   └── referencias.md
-│
-├── 📂 logica-matematica-e-algoritmos
-│   ├── README.md
-│   ├── unidade-1.md
-│   ├── unidade-2.md
-│   ├── unidade-3.md
-│   └── exercicios.md
-│
-├── 📂 relacoes-principios-e-valores
-│   ├── README.md
-│   └── anotacoes.md
-│
-├── 📂 residencia-tecnologica
-│   ├── README.md
-│   ├── unidade-1.md
-│   ├── unidade-2.md
-│   ├── unidade-3.md
-│   └── exercicios.md
-│
-└── 📂 introducao-a-banco-de-dados
-    ├── README.md
-    ├── modelagem-conceitual.md
-    ├── modelagem-logica.md
-    ├── normalizacao.md
-    └── sql.md
+├── 📂 1-periodo
+├── 📂 2-periodo
+├── 📂 assets
+└── README.md
 ```
 
 ---
 
 # Disciplinas do 1º período
-
-O primeiro período do curso de **Análise e Desenvolvimento de Sistemas (ADS)** é composto por disciplinas que desenvolvem os fundamentos da programação, da lógica computacional, do desenvolvimento web, dos bancos de dados e da formação humana e profissional.
-
----
 
 ## Linguagem de Marcação e Formatação
 
@@ -116,34 +84,24 @@ Disciplina voltada ao desenvolvimento de páginas web utilizando HTML e CSS, apr
 
 ### Conteúdos Estudados
 
-#### Unidade I
 - Como a Web funciona
 - Servidores Web
-- Introdução ao HTML
-- Mudanças no HTML 
+- HTML
 - Estrutura do HTML 
 - Formatação de textos 
-- Listas e Sublistas 
-- Estrutura de um site 
-- Conhecendo a tag `<div>`
-- Atributos e Links 
-
-#### Unidade II
+- Listas
+- Links
+- DIV
 - Tabelas
 - Formulários
-- CSS e Seletores
-- Fontes, textos, margens e espaçamentos
-- Position, Float e outras propriedades
-- Menu com Listas e Submenus
+- CSS
+- Seletores
+- Position
+- Float
 - Layouts
-- Overflow e outros recursos
-- Formatação de campos em formulários
-- Formatação de botões
-
-#### Unidade III
-
-- Acessibilidade na Web
-- Ajustes finais do projeto
+- Overflow
+- Responsividade
+- Acessibilidade
 
 ---
 
@@ -151,14 +109,12 @@ Disciplina voltada ao desenvolvimento de páginas web utilizando HTML e CSS, apr
 
 Disciplina voltada para o desenvolvimento pessoal, ético e profissional durante a formação acadêmica.
 
-#### Unidade I
+### Conteudos estudados
 
-- Reflexão sobre a trajetória pessoal
-- Quem sou eu?
 - Projeto de vida
-- Relações humanas
-- Relação consigo mesmo, com o outro, natureza e transcendência 
-
+- Ética
+- Moral
+- Relações Humanas
 #### Unidade II
 
 - Ética e Moral
