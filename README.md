@@ -389,16 +389,43 @@ Disciplina dedicada ao estudo da organização de software e da interação entr
 - Padrões Arquiteturais
 - Estilos Arquiteturais
 - Documentação de Arquiteturas
-- Linguagens de Descrição de Arquitetura
+- Linguagens de descrição de Arquitetura
+- Interação Humano-Computador (ICH)
+- Interfaces para sistemas
+- Design de interfaces
+- Usabilidade
+- Experiência do Usuário (UX)
+- Requisitos não funcionais
+- Fatores humanos em softwares interativos
 
 ---
 
 ## Banco de Dados Aplicados
 
+ Disciplina voltada ao desenvolvimento de bancos de dados utilizando SQL e técnicas de modelagem.
+
+ ### Conteúdos Estudados
+
+ - Surgimento de linguagem SQL
+ - Categorias de comandos SQL
+ - DDL
+ - DML
+ - DQL
+ - DCL
+ - DTL
+ - Restrições de domínio
+ - Álgebera Relacional
+ - Junções (JOIN)
+ - Transaçóes
+ - Views
+ - Triggers
+ - Stored Procedures
+ - Functions
+ - Cursores (Cursor)
 
 ---
 
-## Próximos Períodos
+## Próximos PeríodosInter
 
 - [] Em atualização conforme avanço no curso
 
