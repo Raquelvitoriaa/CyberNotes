@@ -82,7 +82,7 @@ A ideia é transformar este repositório em uma **base de conhecimento**, regist
 
 Disciplina voltada ao desenvolvimento de páginas web utilizando HTML e CSS, apresentando os principais conceitos da estruturação e estilização de sites.
 
-### Conteúdos Estudados
+**Conteúdos**
 
 - Como a Web funciona
 - Servidores Web
@@ -109,63 +109,36 @@ Disciplina voltada ao desenvolvimento de páginas web utilizando HTML e CSS, apr
 
 Disciplina voltada para o desenvolvimento pessoal, ético e profissional durante a formação acadêmica.
 
-### Conteudos estudados
+**Conteúdos**
 
 - Projeto de vida
 - Ética
 - Moral
 - Relações Humanas
-#### Unidade II
-
-- Ética e Moral
-- Ensino Superior
-- Função social da universidade
-- Competências acadêmicas
-- Habilidades de percepção
-- Argumentação
-- Produção textual
-- Comunicação oral
-- Atividades práticas
-
-#### Unidade III
-
-- Espiritualidade 
-- Debate e feedback sobre a disciplina
-
+- Competências Acadêmicas
+- Comunicação
+- Produção Textual
+- Espiritualidade
+  
 ---
 
 ## Residência Tecnológica I
 
 Disciplina que apresenta os fundamentos da computação e introduz o estudante ao desenvolvimento de algoritmos e programação em C.
 
-### Conteúdos Estudados
+**Conteúdos**
 
-#### Unidade I
-
-- Introdução aos algoritmos
-- Formas de representação 
-- Narrativa
+- Algoritmos
+- Programação em C
 - Fluxograma 
 - Pseudocódigo 
 - Variáveis
-- Constantes
-- Instruções
-- Operadores
-- Comandos sequênciais
-
-#### Unidade II
-
-- Estruturas condicionais
-- Estruturas de repetição (while)
-- Estruturas de repetição (for)
-- Estrutura de repetição (do-while)
-
-#### Unidade III
+- Condicionais
+- Loops
 - Ponteiros
-- Funções
 - Vetores
+- Struct
 - Strings
-- Estruturas (struct)
 - Arquivos
 
 ---
