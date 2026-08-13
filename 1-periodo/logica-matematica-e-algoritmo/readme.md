@@ -1,0 +1,1 @@
+# Lógica matemática e algoritmo
