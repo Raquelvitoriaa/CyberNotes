@@ -26,12 +26,12 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 | ----------------------------- | ---------------------------- |
 |    Usuário                    |   **Raquel Vitória**         |
 |    Curso                      |   **ADS**                    |
-|    Instituição                |                              |
-|    Início da Jornada          |   ****                           |
-|    Status                     |                              |
-|    Período Atual              |                              |
-|    Conhecimento Sicronizado   |                              |
-|    Rede Neural Acadêmica      |                              |
+|    Instituição                |   **FICR**                   |
+|    Início da Jornada          |   **02/03/2026**             |
+|    Status                     |   **ONLINE**                 |
+|    Período Atual              |   **02**                     |
+|    Conhecimento Sicronizado   |   **30%**                    |
+|    Rede Neural Acadêmica      |   **ATIVADA**                |
 
 ```bash
 > boot_sequence...
@@ -42,7 +42,7 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 
 ---
 
-# ⚡️Sobre o Projeto
+# ⚡️Sobre
 
 O **CyberNotes** é um repositório criado para centralizar todas as minhas anotações durante a graduação em **Análise e Desenvolvimento de Sistemas(ADS)**.
 
@@ -55,12 +55,14 @@ A ideia é transformar este repositório em uma **base de conhecimento**, regist
 # 🎯 Objetivos
 
 - [x] Organizar conteúdos estudados
+- [x] Criar resumos de cada aula
+- [x] Salvar exemplos de códigos
 - [x] Documentar conhecimentos adquiridos
-- [x] Facilitar revisões futuras
+- [x] Facilitar futuras revisões
 - [x] Armazenar exemplos de código 
-- [x] Centralizar recursos importantes 
+- [x] Acompanhar minha evolução
 - [x] Compartilhar conhecimento
-- [x] Criar resumos de cada aulas
+
 ---
 
 # 🗂 Estrutura do Repositório
@@ -147,37 +149,18 @@ Disciplina que apresenta os fundamentos da computação e introduz o estudante a
 
 Disciplina que apresenta os conceitos fundamentais da modelagem de dados e da construção de bancos de dados relacionais.
 
-### Conteúdos Estudados
+**Conteúdos**
 
-#### Introdução
-
-- Conceitos básicos
 - História dos bancos de dados
-
-#### Modelagem Conceitual
-
+- Modelagem Conceitual
 - Entidades
 - Relacionamentos
 - Cardinalidade
-- Tipos de notação
 - Atributos
-- Ferramentas de modelagem
-- Estratégias de modelagem
-
-#### Modelagem Lógica
-
-- Tabelas 
+- Modelagem Lógica
 - Chaves
-
-#### Normalização
-
-- Primeira Forma Normal (1FN)
-- Segunda Forma Normal (2FN)
-- Terceira Forma Normal (3FN)
-
-#### Engenharia Reversa
-
-- Conversão do modelo físico para o modelo conceitual
+- Normalização
+- SQL
 
 ---
 
@@ -185,68 +168,44 @@ Disciplina que apresenta os conceitos fundamentais da modelagem de dados e da co
 
 Disciplina responsável pelo desenvolvimento do raciocínio lógico e da resolução de problemas computacionais.
 
-### Conteúdos Estudados
+**Conteúdos**
 
-#### Unidade I
-
-- Introdução à Lógica Matemática
-- Proposições e conectivos
-- Operações lógicas 
-- Tabelas-verdade
-- Equivalência lógica
-- Argumento lógico
-
-#### Unidade II
-
+- Lógica Matemática
+- Proposições
+- Tabela Verdade
 - Algoritmos
-- Tipos primitivos de dados
+- Fluxograma
 - Variáveis
 - Constantes
-- Operadores aritméticos
-- Operadores lógicos e relacionais
-
-#### Unidade III
-
-- Estrutura condicionais
-- Estrutura de repetição (for, while e do-while)
+- Operadores
+- Estruturas Condicionais
+- Estruturas de Repetição
 - Strings
 
 ---
 
 # Disciplinas do 2º Período
 
-O segundo período aprofunda os conhecimentos adquiridos no primeiro semestre, introduzindo conceitos de programação orientada a objetos, estruturas de dados, arquitetura de software, interfaces humano-computador e bancos de dados aplicados.
-
----
-
 ## Estrutura de Dados
 
 Disciplina voltada ao estudo das principais estruturas utilizadas para armazenar, organizar e manipular dados, além dos algoritmos de busca e ordenação.
 
-### Conteúdos Estudados
+**Conteúdos**
 
 - Tipos de Dados
-- Estruturas de Dados
-- Tipos Abstratos de Dados (TAD)
 - Pilhas
 - Filas
 - Filas Circulares
 - Listas Encadeadas
-- Listas Simplesnente Encadeadas
-- Listas Duplamente Encadeadas
+- Listas Encadeadas
 - Ponteiros
 - árvores
-- Árvores Binárias de Busca(BST)
-- Percursos em Árvores
-- Pré-Ordem
-- Busca em Largura
-- Métodos de Pesquisa
-- Sequencial
-- Binária
-- Algoritmos de Ordenação
-- Bolha (Bubble Sort)
-- Inserção (Insertion Sort)
-- Seleção (Selection Sort)
+- Árvores Binárias
+- Busca sequencial
+- Busca Binária
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
 - QuickSort
 
 ---
@@ -255,56 +214,34 @@ Disciplina voltada ao estudo das principais estruturas utilizadas para armazenar
 
 Disciplina prática voltada ao desenvolvimento de aplicações utilizando java e conceitos modernos de programação.
 
-### Conteúdos Estudados
+**Conteúdos**
 
-- Programação Estruturada
+- Java
 - Programação Orientada a Objetos
-- Programação em Java
-- Conceitos Básicos em Java
-- Classes
-- Objetos
-- Métodos
-- Atributos
-- Construtores
-- Sobrecarga
-- Instanciação de Objetos
-- Referência de Ubjetos
-- Desenvolvimento Web
 - HTML
 - CSS
 - JavaScript
-
+- Desenvolvimento Web
+  
 ---
 
 ## Programação Orientada a Objeto
 
 Disciplina responsável por apresentar o paradigma de orientação a objetos utilizando Java.
 
-### Conteúdos Estudados
+**Conteúdos**
 
-- Introdução á Orientação a Objetos
-- Linguagens Orientadas a Prjetos
-- Programação Orieentada a Objetos em Java
-- Classes
-- Objetos
-- Atributos
-- Métodos
-- Construtores
-- Sobrecarga
-- Instanciação de Objetos
-- Referência de Objetos
-- Envio de Mensagens
-- Ciclo de Vida de um Objeto
-- Abstração
-- Encapsulamento
-- Herança
-- Hierarquia de Classes
-- Classes Abstratas
-- Interfaces
-- Relacionamento entre Classes
-- Polimorfismo
-- Ligação Dinâmica (Dynamic Binding)
-- Tratamento de Exceções
+- Programação Orientadas a Objetos
+- Conceito sobre Orientação a Objetos
+- Introdução as Classes
+- Introdução a Sintaxe Orientada a Objeto
+- Conceito de Herança e Polimorfismo
+- Introdução ao Encapsulamento
+- Aplicação de Interfaces
+- Introdução a agregação e Composição
+- Conceito de Tratamento de Exeções
+- Conceito de Abstração
+- Spring Boot
 
 ---
 
@@ -312,20 +249,16 @@ Disciplina responsável por apresentar o paradigma de orientação a objetos uti
 
 Disciplina dedicada ao estudo da organização de software e da interação entre usuários e aplicações.
 
-### Conteúdos Estudados
+**Conteúdos**
 
-- Fundamentos de Arquitetura de Software
+- Arquitetura de Software
 - Padrões Arquiteturais
-- Estilos Arquiteturais
-- Documentação de Arquiteturas
-- Linguagens de descrição de Arquitetura
-- Interação Humano-Computador (ICH)
-- Interfaces para sistemas
-- Design de interfaces
+- Documentação
+- IHM
+- Interfaces
+- UX
 - Usabilidade
-- Experiência do Usuário (UX)
-- Requisitos não funcionais
-- Fatores humanos em softwares interativos
+- Design de Interação
 
 ---
 
@@ -333,24 +266,21 @@ Disciplina dedicada ao estudo da organização de software e da interação entr
 
  Disciplina voltada ao desenvolvimento de bancos de dados utilizando SQL e técnicas de modelagem.
 
- ### Conteúdos Estudados
+ **Conteúdos**
 
- - Surgimento de linguagem SQL
- - Categorias de comandos SQL
+ - SQL
  - DDL
  - DML
  - DQL
  - DCL
  - DTL
- - Restrições de domínio
  - Álgebera Relacional
- - Junções (JOIN)
- - Transaçóes
- - Views
- - Triggers
- - Stored Procedures
- - Functions
- - Cursores (Cursor)
+ - JOIN
+ - VIEWS
+ - TRIGGER
+ - FUNCTION
+ - STORED PROCEDURE
+ - CURSOR
 
 ---
 
@@ -363,9 +293,88 @@ Disciplina dedicada ao estudo da organização de software e da interação entr
 # Status do Conhecimento
 
 ```text
-[██████████] Linguagem de Marcação e Formatação
-[██████████] Relações, Princípios e Valores
-[██████████] Residência Tecnológica I
-[██████████] Introdução a Bancos de Dados
-[██████████] Lógica Matemática e Algoritmos
+1 - periodo
+[██████████] Linguagem de Marcação e Formatação - 100%
+[██████████] Relações, Princípios e Valores - 100%
+[██████████] Residência Tecnológica I - 100%
+[██████████] Introdução a Bancos de Dados - 100%
+[██████████] Lógica Matemática e Algoritmos - 100%
+
+2 - periodo
+[██████████] Estrutura de Dados
+[██████████] Residência Tecnológica II
+[██████████] Programação Orientada a Objetos
+[██████████] Arquitetura de Software e IHM
+[██████████] Banco de Dados Aplicados
 ```
+
+---
+
+# Progresso da Graduação
+
+| período   | Status    |
+|-----------|-----------|
+| 1 Períodob| Concluido |
+| 2 Período | Cursando  |
+| 3 Período | Em Breve  |
+| 4 Período | Em Breve  |
+| 5 Periodo | Em Breve  |
+
+---
+
+# Tecnologias Estudadas
+
+
+
+
+---
+
+# Organização
+
+> Cada disciplina possui sua própria pasta contendo:
+
+- README da discliplina
+- Resumos
+- Exercícios
+- Atividades
+- Exemplos
+- Códigos
+- Pesquisas
+- Referências
+
+---
+
+# Objetivo Final
+
+Ao final da graduação, este repositório será um histórico completo da minha jornada em **Análise e Desenvolvimento de Sistemas**, resumindo anotações, projetos, exercícios e aprendizados adquiridos ao longo do curso.
+
+---
+
+<p align="center">
+
+Obrigada por visitar o CyberNotes!
+
+Se esse projeto foi útil ou inspirador para vôce, considere deixar uma estrela no repositório. :)
+
+</p>
+
+---
+
+> "Conhecimento é a moeda mais valiosa do ciberespaço."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
