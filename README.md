@@ -362,7 +362,7 @@ Se esse projeto foi útil ou inspirador para vôce, considere deixar uma estrela
 
 > "Conhecimento é a moeda mais valiosa do ciberespaço."
 
-
+<img width="356" height="200" alt="200" src="https://github.com/user-attachments/assets/55d333bb-c970-4065-a02c-917e2317477c" />
 
 
 
