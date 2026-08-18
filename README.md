@@ -365,7 +365,7 @@ Se esse projeto foi útil ou inspirador para vôce, considere deixar uma estrela
 > "Conhecimento é a moeda mais valiosa do ciberespaço."
 
 <p>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMWh0azA3aDc4cWE0amFpdmVnbmZyODI1a2M5YndwNmFzanQ5cXR4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" width="100%">
+  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/7dac19b6-8806-4164-8028-973ea1e3cfad" />
 </p>
 
 
