@@ -1,5 +1,7 @@
 <p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMWh0azA3aDc4cWE0amFpdmVnbmZyODI1a2M5YndwNmFzanQ5cXR4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" width="100%">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1fbcd4cf-0f87-4691-8f05-914342d0b9b6" width="100%" />
+
 </p>
 
 <h1 align="center">🌃CyberNotes</h1>
@@ -362,8 +364,8 @@ Se esse projeto foi útil ou inspirador para vôce, considere deixar uma estrela
 
 > "Conhecimento é a moeda mais valiosa do ciberespaço."
 
-<p align="center">
-  <img width="499" height="487" alt="giphy" src="https://github.com/user-attachments/assets/1fbcd4cf-0f87-4691-8f05-914342d0b9b6" />
+<p>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMWh0azA3aDc4cWE0amFpdmVnbmZyODI1a2M5YndwNmFzanQ5cXR4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" width="100%">
 </p>
 
 
