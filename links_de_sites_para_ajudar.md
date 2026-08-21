@@ -87,3 +87,6 @@ https://profile-readme-generator.com/pt-BR
 
 **streak status**
 https://github.com/denvercoder1/github-readme-streak-stats
+
+**Imagens HTML**
+https://www.w3schools.com/html/html_images.asp
