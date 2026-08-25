@@ -33,6 +33,7 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 |    Conhecimento Sicronizado   |   **30%**                    |
 
 # 📡 SYSTEM BOOT
+|-------------------------------|------------------------------|
 |    Rede Neural Acadêmica      |   **ATIVADA**                |
 
 ```bash
