@@ -34,7 +34,7 @@ Uma base de conhecimento digital dedicada ao aprendizado, documentação e evolu
 
 # 📡 SYSTEM BOOT
 
-|-------------------------------|------------------------------|
+|                               |                              |
 |    Rede Neural Acadêmica      |   **ATIVADA**                |
 
 ```bash
