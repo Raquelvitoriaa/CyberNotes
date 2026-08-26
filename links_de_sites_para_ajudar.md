@@ -90,3 +90,7 @@ https://github.com/denvercoder1/github-readme-streak-stats
 
 **Imagens HTML**
 https://www.w3schools.com/html/html_images.asp
+
+
+**Chat da IA sobre Normalização**
+https://www.perplexity.ai/search/9d7013e3-ec6d-4106-bc3b-624e1de89d28
