@@ -357,7 +357,7 @@ Ao final da graduação, este repositório será um histórico completo da minha
 
 Obrigada por visitar o CyberNotes!
 
-Se esse projeto foi útil ou inspirador para vôce, considere deixar uma estrela no repositório. :)
+Se esse projeto foi útil ou inspirador para você, considere deixar uma estrela no repositório. :)
 
 </p>
 
