@@ -190,6 +190,11 @@ Disciplina que apresenta os conceitos fundamentais da modelagem de dados e da co
 
 ## Lógica Matemática e Algoritmos
 
+```python
+while conhecimento:
+    aprender()
+```
+
 Disciplina responsável pelo desenvolvimento do raciocínio lógico e da resolução de problemas computacionais.
 
 **Conteúdos**
