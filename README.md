@@ -117,6 +117,10 @@ Disciplina voltada ao desenvolvimento de páginas web utilizando HTML e CSS, apr
 
 ## Relação: Princípios e Valores
 
+```bash
+> loading module: Relacao_Principios_Valores
+```
+
 Disciplina voltada para o desenvolvimento pessoal, ético e profissional durante a formação acadêmica.
 
 **Conteúdos**
