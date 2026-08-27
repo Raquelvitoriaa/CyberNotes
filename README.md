@@ -83,6 +83,11 @@ A ideia é transformar este repositório em uma **base de conhecimento**, regist
 
 # Disciplinas do 1º período
 
+```txt
+STATUS: OPERACIONAL
+MÓDULOS CARREGADOS COM SUCESSO
+```
+
 ## Linguagem de Marcação e Formatação
 
 Disciplina voltada ao desenvolvimento de páginas web utilizando HTML e CSS, apresentando os principais conceitos da estruturação e estilização de sites.
@@ -188,6 +193,11 @@ Disciplina responsável pelo desenvolvimento do raciocínio lógico e da resolu�
 ---
 
 # Disciplinas do 2º Período
+
+```txt
+STATUS: OPERACIONAL
+MÓDULOS CARREGADOS COM SUCESSO
+```
 
 ## Estrutura de Dados
 
