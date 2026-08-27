@@ -90,6 +90,10 @@ MÓDULOS CARREGADOS COM SUCESSO
 
 ## Linguagem de Marcação e Formatação
 
+```bash
+> loading module: Markdown_Engine
+```
+
 Disciplina voltada ao desenvolvimento de páginas web utilizando HTML e CSS, apresentando os principais conceitos da estruturação e estilização de sites.
 
 **Conteúdos**
