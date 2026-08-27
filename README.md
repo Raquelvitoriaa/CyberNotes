@@ -289,7 +289,14 @@ Disciplina dedicada ao estudo da organização de software e da interação entr
 
 ## Próximos PeríodosInter
 
-- [] Em atualização conforme avanço no curso
+```txt
+╔══════════════════════════════╗
+║      ACESSO BLOQUEADO        ║
+║      DOWNLOAD PENDENTE       ║
+╚══════════════════════════════╝
+```
+
+> 🚧 Módulos ainda não desbloqueados.
 
 ---
 
