@@ -163,6 +163,10 @@ Disciplina que apresenta os fundamentos da computação e introduz o estudante a
 
 ## Introdução a Bancos de Dados 
 
+```sql
+SELECT * FROM knowledge_database;
+```
+
 Disciplina que apresenta os conceitos fundamentais da modelagem de dados e da construção de bancos de dados relacionais.
 
 **Conteúdos**
