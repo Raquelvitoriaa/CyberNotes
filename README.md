@@ -142,6 +142,10 @@ Disciplina voltada para o desenvolvimento pessoal, ético e profissional durante
 
 ## Residência Tecnológica I
 
+```bash
+> connecting_to_real_world_projects...
+```
+
 Disciplina que apresenta os fundamentos da computação e introduz o estudante ao desenvolvimento de algoritmos e programação em C.
 
 **Conteúdos**
