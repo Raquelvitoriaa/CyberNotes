@@ -6,6 +6,7 @@
 
 void Exercicio01() {
 
+   int main() {
   int numero1, numero2, valor;
   
   printf("Exercicio 1: Faca um algoritmo que recebe dois valores inteiros e mostra o resultado da multiplicacao.");
@@ -20,15 +21,16 @@ void Exercicio01() {
   scanf("%d", &numero2);
 
   printf("O valor total foi de: %d", valor);
+ }
 }
 
 void Exercicio02() {
 
-  int numero, antecessor, sucessor;
-
   printf("Exercicío 2: Fazer um algoritmo que leia um numero e mostre o seu antecessor e o seu sucessor");
 
-  int main(void) {
+  int main() {
+
+     int numero, antecessor, sucessor;
 
     printf("Digite um numero: ");
     scanf("%d", &numero);
@@ -44,11 +46,11 @@ void Exercicio02() {
 
 void Exercicio03() {
 
-  int x, y, quociente, resto;
-
   Printf("Exercicío 3: Fazer um algoritmo que obtenha dois numeros inteiros, x e y, mostre o quociente e o resto da divisao inteira ente elas");
 
-  int main(void) {
+  int main() {
+
+      int x, y, quociente, resto;
 
     printf("Digite o valor x: ");
     scanf("%d", &x);
@@ -70,11 +72,11 @@ void Exercicio03() {
 
 void Exercicio04() {
 
-  float num1, num2, soma, produto, quociente;
-
   printf("Exercicío 4: Fazer um algoritmo que calcule e mostre: a soma entre dois numeros, o produto entre ele e o quociente entre ele");
 
-  int main(void) {
+  int main() {
+
+     float num1, num2, soma, produto, quociente;
 
     printf("Digite o primeiro numero: ");
     scanf("%f", &num1);
@@ -100,11 +102,11 @@ void Exercicio04() {
 
 void Exercicio05() {
 
-  float centimetros, polegadas;
-
   printf("Exercicío 5: Fazer um algoritmo que converta centimentros para polegadas (1pol = 2,54cm)");
 
-  int main(void) {
+  int main() {
+
+     float centimetros, polegadas;
 
     printf("Digite o valor em centimetros: ");
     scanf("%f", &centimetros);
@@ -116,12 +118,12 @@ void Exercicio05() {
 }
 
 void Exercicio06() {
-
-  float raio, area;
   
   printf("Exercicío 6: Faça um algoritmo que recebe o valor do raio de um circulo e apresenta o valor da area do circulo.");
 
-  int main(void) {
+  int main() {
+
+     float raio, area;
 
     const float PI = 3.14159;
 
@@ -137,8 +139,8 @@ void Exercicio06() {
 void Exercicio07() {
 
   printf("Exercicío 7: Fazer um algoritmo que calcule e mostre a area e o volume de um cilindro (A = 2r (h
-
- int main(void) {
+     
+     int main() {
 
   const float PI = 3.14159;
 
@@ -152,7 +154,12 @@ void Exercicio07() {
 
   area = 2 * PI * raio * (altura + raio);
   volume = PI * (raio * raio) * altura;
-  
+
+   printf("\n--------RESULTADOS----------n");
+   printf("\nArea total: %.2f\n", area);
+   printf("\nVolume: %.2f\n", volume);
+   printf("------------------------------\n);
+      
  }
 }
 
