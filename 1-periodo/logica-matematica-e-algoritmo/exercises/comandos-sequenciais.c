@@ -10,7 +10,7 @@ void Exercicio01() {
       
   int numero1, numero2, valor;
   
-  printf("Exercicio 1: Faca um algoritmo que recebe dois valores inteiros e mostra o resultado da multiplicacao.");
+  /* Exercicio 1: Faca um algoritmo que recebe dois valores inteiros e mostra o resultado da multiplicacao. */
 
   printf("\n==================================================\n");
   printf("\nMULTIPICACAO\n");
@@ -27,7 +27,7 @@ void Exercicio01() {
 
 void Exercicio02() {
 
-  printf("Exercicío 2: Fazer um algoritmo que leia um numero e mostre o seu antecessor e o seu sucessor");
+  /* Exercicío 2: Fazer um algoritmo que leia um numero e mostre o seu antecessor e o seu sucessor */
 
   int main() {
 
@@ -47,7 +47,7 @@ void Exercicio02() {
 
 void Exercicio03() {
 
-  Printf("Exercicio 3: Fazer um algoritmo que obtenha dois numeros inteiros, x e y, mostre o quociente e o resto da divisao inteira ente elas");
+  /* Exercicio 3: Fazer um algoritmo que obtenha dois numeros inteiros, x e y, mostre o quociente e o resto da divisao inteira ente elas. */
 
   int main() {
 
@@ -73,7 +73,7 @@ void Exercicio03() {
 
 void Exercicio04() {
 
-  printf("Exercicio 4: Fazer um algoritmo que calcule e mostre: a soma entre dois numeros, o produto entre ele e o quociente entre ele");
+  /* Exercicio 4: Fazer um algoritmo que calcule e mostre: a soma entre dois numeros, o produto entre ele e o quociente entre ele. */
 
   int main() {
 
@@ -103,7 +103,7 @@ void Exercicio04() {
 
 void Exercicio05() {
 
-  printf("Exercicio 5: Fazer um algoritmo que converta centimentros para polegadas (1pol = 2,54cm)");
+  /* Exercicio 5: Fazer um algoritmo que converta centimentros para polegadas (1pol = 2,54cm) */
 
   int main() {
 
@@ -120,7 +120,7 @@ void Exercicio05() {
 
 void Exercicio06() {
   
-  printf("Exercicio 6: Faça um algoritmo que recebe o valor do raio de um circulo e apresenta o valor da area do circulo.");
+  /* Exercicio 6: Faça um algoritmo que recebe o valor do raio de um circulo e apresenta o valor da area do circulo. */
 
   int main() {
 
@@ -139,7 +139,8 @@ void Exercicio06() {
 
 void Exercicio07() {
 
-  printf("Exercicio 7: Fazer um algoritmo que calcule e mostre a area e o volume de um cilindro (A = 2πr(h + r), V = πr2h)
+  /* Exercicio 7: Fazer um algoritmo que calcule e mostre a area e o volume de um cilindro (A = 2πr(h + r), V = πr2h) */
+
      int main() {
 
   const float PI = 3.14159;
@@ -165,31 +166,32 @@ void Exercicio07() {
 
 void Exercicio08() {
 
-  printf("Exercicío 8: Escreva um algoritmo que recebe valor do salário fixo e o total de vendas efetuadas por um vendedor de uma loja durante o mês (em dinheiro). Sabendo que o vendedor ganha 15% de comissão sobre as vendas, informar o salário fixo e salário do final do mês");
+  /* Exercicío 8: Escreva um algoritmo que recebe valor do salário fixo e o total de vendas efetuadas por um vendedor de uma loja durante o mês (em dinheiro). Sabendo que o vendedor ganha 15% de comissão sobre as vendas, informar o salário fixo e salário do final do mês */
 }
 
 void Exercicio09() {
 
-  printf("Exercicio 9: Ler dois valores para as variáveis A e B, efetuar as trocas de valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A. Apresentar valores trocados");
+  /* Exercicio 9: Ler dois valores para as variáveis A e B, efetuar as trocas de valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A. Apresentar valores trocados */
 }
 
 void Exercicio10() {
 
-  printf("Exercicío 10: Faça um algoritmo que mostra a quantidade de cédulas de um caixa eletrônico de um banco. O algoritmo recebe como entrada o valor inteiro a ser sacado pelo cliente, em seguida apresenta a quantidade de cada cédula que o cliente deverá receber, de forma que a quantidade de cédulas seja o menor possível."):
+  /* Exercicío 10: Faça um algoritmo que mostra a quantidade de cédulas de um caixa eletrônico de um banco. O algoritmo recebe como entrada o valor inteiro a ser sacado pelo cliente, em seguida apresenta a quantidade de cada cédula que o cliente deverá receber, de forma que a quantidade de cédulas seja o menor possível. */
 }
 
 void Exercicio11() {
-  printf("Exercicio 11: Faça um algoritmo que auxiliará um funcionário de um caixa de supermecado. O algoritmo deverá receber como entrada o valor da compra do cliente e o valor pago pelo cliente, em seguida o algoritmo deverá apresentar o tronco da compra, de forma que o mesmo deve apresenar a quantidade de cédulas e moedas para compor o troco do cliente.");
+   
+  /* Exercicio 11: Faça um algoritmo que auxiliará um funcionário de um caixa de supermecado. O algoritmo deverá receber como entrada o valor da compra do cliente e o valor pago pelo cliente, em seguida o algoritmo deverá apresentar o tronco da compra, de forma que o mesmo deve apresenar a quantidade de cédulas e moedas para compor o troco do cliente. */
 }
 
 void Exercicio12() {
 
-  printf("Exercicio 12: Fazer um algoritmo que calcule a média aritmética dos números 7, 8 e 9 e a média nos númreos 4, 5 e 6. Mostre a soma das duas médias e a médias das médias.");
+  /* Exercicio 12: Fazer um algoritmo que calcule a média aritmética dos números 7, 8 e 9 e a média nos númreos 4, 5 e 6. Mostre a soma das duas médias e a médias das médias. */
 }
 
 void Exercicio13() {
 
-  printf("Exercicio 13: O preço de um automóvel é calculado pela soma do preço de fábrica, o preço dos impostos(45% do preço de fábrica) e a porcentagem do revendedor(28% do preço de fábrica). Fazer um algoritmo que leia o preço de fábrica. Calcule e mostre o preço final do carro.");
+  /* Exercicio 13: O preço de um automóvel é calculado pela soma do preço de fábrica, o preço dos impostos(45% do preço de fábrica) e a porcentagem do revendedor(28% do preço de fábrica). Fazer um algoritmo que leia o preço de fábrica. Calcule e mostre o preço final do carro. */
 }
 
 
