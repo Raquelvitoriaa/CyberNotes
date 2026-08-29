@@ -167,21 +167,114 @@ void Exercicio07() {
 void Exercicio08() {
 
   /* Exercicío 8: Escreva um algoritmo que recebe valor do salário fixo e o total de vendas efetuadas por um vendedor de uma loja durante o mês (em dinheiro). Sabendo que o vendedor ganha 15% de comissão sobre as vendas, informar o salário fixo e salário do final do mês */
+
+   int main() {
+
+      double sal_fixo, vendas, comissao, sal_final;
+
+      printf("Digite o salario fixo do vendedor: ");
+      scanf("%lf", &sal_fixo);
+
+      printf("Digite o total de vendas(em dinheiro): ");
+      scanf("%lf", &vendas);
+
+      comissao = vendas * 0.15;
+
+      sal_final = sal_fixo + comissao;
+
+      printf("\n--------RETORNO MENSAL------\n");
+      printf("Salario Fixo: R$ %.2f\n", sal_fixo);
+      printf("Salario Final: R$ %.2f\n", sal_final);
+      
+   }
 }
 
 void Exercicio09() {
 
   /* Exercicio 9: Ler dois valores para as variáveis A e B, efetuar as trocas de valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A. Apresentar valores trocados */
+
+   int main() {
+
+      int A, B, aux;
+
+      printf("Digite o valor de A: \n");
+      scanf("%d", &A);
+      printf("Digite o valor de B: \n");
+      scanf("%d", &B);
+
+      aux = A;
+      A = B;
+      B = aux;
+
+      printf("\n============Valores Trocados============\n");
+      printf("O valor trocado de A: %d\n", A);
+      printf("O valor trocado de B: %d\n", B);
+      
+   }
 }
 
 void Exercicio10() {
 
   /* Exercicío 10: Faça um algoritmo que mostra a quantidade de cédulas de um caixa eletrônico de um banco. O algoritmo recebe como entrada o valor inteiro a ser sacado pelo cliente, em seguida apresenta a quantidade de cada cédula que o cliente deverá receber, de forma que a quantidade de cédulas seja o menor possível. */
+
+   int main() {
+
+      int valor, resto;
+      int n200, n100, n50, n20, n10, n5, n2;
+
+      printf("Digite o valor do saque: ");
+      scanf("%d", &valor);
+
+      n200 = valor / 200;
+      resto = valor % 200;
+
+      n100 = valor / 100;
+      resto = valor % 100;
+
+      n50 = valor / 50;
+      resto = valor % 50;
+
+      n20 = valor / 20;
+      resto = valor % 20;
+
+      n10 = valor / 10;
+      resto = valor % 10;
+
+      n5 = valor / 5;
+      resto = valor % 5;
+
+      n2 = valor / 2;
+      resto = valor % 2;
+
+      printf("\n----------Quantidades de Cedulas---------\n");
+      if(n200 > 0) printf("%d nota(s) de R$200\n", n200);
+      if(n100 > 0) printf("%d nota(s) de R$100\n", n100);
+      if(n50 > 0) printf("%d nota(s) de R$50\n", n50);
+      if(n20 > 0) printf("%d nota(s) de R$20\n", n20);
+      if(n10 > 0) printf("%d nota(s) de R$10\n", n10);
+      if(n5 > 0) printf("%d nota(s) de R$5\n", n5);
+      if(n2 > 0) printf("%d nota(s) de R$2\n", n2);
+
+      if(resto > 0) {
+         
+         printf("Sobra (moedas): R$ %d\n", resto);
+      }
+      
+   }
 }
 
 void Exercicio11() {
    
   /* Exercicio 11: Faça um algoritmo que auxiliará um funcionário de um caixa de supermecado. O algoritmo deverá receber como entrada o valor da compra do cliente e o valor pago pelo cliente, em seguida o algoritmo deverá apresentar o tronco da compra, de forma que o mesmo deve apresenar a quantidade de cédulas e moedas para compor o troco do cliente. */
+
+   int main() {
+
+      double val_compra, val_pago, troco_total;
+      int n200, n100, n50, n20, n10, n5, n2;
+      int centavos, c100, c50, c25, c10, c5, c1;  /* 100 = 1 real */
+
+      printf("");
+   }
 }
 
 void Exercicio12() {
