@@ -7,13 +7,14 @@
 void Exercicio01() {
 
    int main() {
+      
   int numero1, numero2, valor;
   
   printf("Exercicio 1: Faca um algoritmo que recebe dois valores inteiros e mostra o resultado da multiplicacao.");
 
-  printf("==================================================\n");
-  printf("MULTIPICACAO\n");
-  printf("===================================================\n");
+  printf("\n==================================================\n");
+  printf("\nMULTIPICACAO\n");
+  printf("\n===================================================\n");
 
   printf("Digite o primeiro valor: ");
   scanf("%d", &numero1);
@@ -46,7 +47,7 @@ void Exercicio02() {
 
 void Exercicio03() {
 
-  Printf("Exercicío 3: Fazer um algoritmo que obtenha dois numeros inteiros, x e y, mostre o quociente e o resto da divisao inteira ente elas");
+  Printf("Exercicio 3: Fazer um algoritmo que obtenha dois numeros inteiros, x e y, mostre o quociente e o resto da divisao inteira ente elas");
 
   int main() {
 
@@ -72,7 +73,7 @@ void Exercicio03() {
 
 void Exercicio04() {
 
-  printf("Exercicío 4: Fazer um algoritmo que calcule e mostre: a soma entre dois numeros, o produto entre ele e o quociente entre ele");
+  printf("Exercicio 4: Fazer um algoritmo que calcule e mostre: a soma entre dois numeros, o produto entre ele e o quociente entre ele");
 
   int main() {
 
@@ -102,7 +103,7 @@ void Exercicio04() {
 
 void Exercicio05() {
 
-  printf("Exercicío 5: Fazer um algoritmo que converta centimentros para polegadas (1pol = 2,54cm)");
+  printf("Exercicio 5: Fazer um algoritmo que converta centimentros para polegadas (1pol = 2,54cm)");
 
   int main() {
 
@@ -119,7 +120,7 @@ void Exercicio05() {
 
 void Exercicio06() {
   
-  printf("Exercicío 6: Faça um algoritmo que recebe o valor do raio de um circulo e apresenta o valor da area do circulo.");
+  printf("Exercicio 6: Faça um algoritmo que recebe o valor do raio de um circulo e apresenta o valor da area do circulo.");
 
   int main() {
 
@@ -138,7 +139,7 @@ void Exercicio06() {
 
 void Exercicio07() {
 
-  printf("Exercicío 7: Fazer um algoritmo que calcule e mostre a area e o volume de um cilindro (A = 2r (h
+  printf("Exercicio 7: Fazer um algoritmo que calcule e mostre a area e o volume de um cilindro (A = 2r (h
      
      int main() {
 
@@ -158,7 +159,7 @@ void Exercicio07() {
    printf("\n--------RESULTADOS----------n");
    printf("\nArea total: %.2f\n", area);
    printf("\nVolume: %.2f\n", volume);
-   printf("------------------------------\n);
+   printf("\n------------------------------\n);
       
  }
 }
@@ -170,7 +171,7 @@ void Exercicio08() {
 
 void Exercicio09() {
 
-  printf("Exercicío 9: Ler dois valores para as variáveis A e B, efetuar as trocas de valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A. Apresentar valores trocados");
+  printf("Exercicio 9: Ler dois valores para as variáveis A e B, efetuar as trocas de valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A. Apresentar valores trocados");
 }
 
 void Exercicio10() {
@@ -179,17 +180,17 @@ void Exercicio10() {
 }
 
 void Exercicio11() {
-  printf("Exercicío 11: Faça um algoritmo que auxiliará um funcionário de um caixa de supermecado. O algoritmo deverá receber como entrada o valor da compra do cliente e o valor pago pelo cliente, em seguida o algoritmo deverá apresentar o tronco da compra, de forma que o mesmo deve apresenar a quantidade de cédulas e moedas para compor o troco do cliente.");
+  printf("Exercicio 11: Faça um algoritmo que auxiliará um funcionário de um caixa de supermecado. O algoritmo deverá receber como entrada o valor da compra do cliente e o valor pago pelo cliente, em seguida o algoritmo deverá apresentar o tronco da compra, de forma que o mesmo deve apresenar a quantidade de cédulas e moedas para compor o troco do cliente.");
 }
 
 void Exercicio12() {
 
-  printf("Exercicío 12: Fazer um algoritmo que calcule a média aritmética dos números 7, 8 e 9 e a média nos númreos 4, 5 e 6. Mostre a soma das duas médias e a médias das médias.");
+  printf("Exercicio 12: Fazer um algoritmo que calcule a média aritmética dos números 7, 8 e 9 e a média nos númreos 4, 5 e 6. Mostre a soma das duas médias e a médias das médias.");
 }
 
 void Exercicio13() {
 
-  printf("Exercicío 13: O preço de um automóvel é calculado pela soma do preço de fábrica, o preço dos impostos(45% do preço de fábrica) e a porcentagem do revendedor(28% do preço de fábrica). Fazer um algoritmo que leia o preço de fábrica. Calcule e mostre o preço final do carro.");
+  printf("Exercicio 13: O preço de um automóvel é calculado pela soma do preço de fábrica, o preço dos impostos(45% do preço de fábrica) e a porcentagem do revendedor(28% do preço de fábrica). Fazer um algoritmo que leia o preço de fábrica. Calcule e mostre o preço final do carro.");
 }
 
 
