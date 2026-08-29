@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <locale.h>
+
+   setlocale(LC_ALL, "portugueses");
 
 void Exercicio01() {
 
@@ -23,51 +26,163 @@ void Exercicio02() {
 
   int numero, antecessor, sucessor;
 
-  printf("Fazer um algoritmo que leia um numero e mostre o seu antecessor e o seu sucessor");
+  printf("Exercicío 2: Fazer um algoritmo que leia um numero e mostre o seu antecessor e o seu sucessor");
+
+  int main(void) {
+
+    printf("Digite um numero: ");
+    scanf("%d", &numero);
+
+    antecessor = numero - 1;
+    sucessor = numero + 1;
+
+    printf("antecessor: %d\n", antecessor);
+    printf("sucessor: %d\n", sucessor);
+  }
+  
 }
 
 void Exercicio03() {
 
-  Printf("Fazer um algoritmo que obtenha dois numeros inteiros, x e y, mostre o quociente e o resto da divisao inteira ente elas");
+  int x, y, quociente, resto;
 
+  Printf("Exercicío 3: Fazer um algoritmo que obtenha dois numeros inteiros, x e y, mostre o quociente e o resto da divisao inteira ente elas");
+
+  int main(void) {
+
+    printf("Digite o valor x: ");
+    scanf("%d", &x);
+    printf("Digite o valor y: ");
+    scanf("%d", &y);
+
+    if(y == 0) {
+      printf("\nErro: Divisao por zero nao permitida.\n");
+    }else{
+      quociente = x / y;
+      resto = x % y;
+
+      printf("\nResultados: \n");
+      printf("Quociente: %d\n", quociente);
+      printf("Resto: %d\n", resto);
+    }
+  }
 }
 
 void Exercicio04() {
 
-  printf("Fazer um algoritmo que calcule e mostre: a soma entre dois numeros, o produto entre ele e o quociente entre ele");
-}
+  float num1, num2, soma, produto, quociente;
+
+  printf("Exercicío 4: Fazer um algoritmo que calcule e mostre: a soma entre dois numeros, o produto entre ele e o quociente entre ele");
+
+  int main(void) {
+
+    printf("Digite o primeiro numero: ");
+    scanf("%f", &num1);
+    printf("Digite o segundo numero: ");
+    scanf("%f", &num2);
+
+    soma = num1 + num2;
+
+    produto = num1 * num2;
+
+    printf("\n-----Resultados------\n");
+    printf("soma: %.2f\n", soma);
+    printf("produto: %.2f\n", produto);
+
+    if(num2 != 0) {
+      quociente = num1 / num2;
+      printf("quociente: %.2f\n", quociente);
+    }else{
+      printf("quociente: Error - Divisao por zero nao permitida.\n");
+    }
+  }
+
 
 void Exercicio05() {
 
-  printf("Fazer um algoritmo que converta centimentros para polegadas (1pol = 2,54cm)");
+  float centimetros, polegadas;
+
+  printf("Exercicío 5: Fazer um algoritmo que converta centimentros para polegadas (1pol = 2,54cm)");
+
+  int main(void) {
+
+    printf("Digite o valor em centimetros: ");
+    scanf("%f", &centimetros);
+
+    polegadas = centimentros / 2.54;
+
+    printf("%.2f centimentros equivalem a %.2f polegadas.\n", centimentros, polegadas);
+  }
 }
 
 void Exercicio06() {
 
-  printf("Faca um algoritmo que recebe o valor do raio de um circulo e apresenta o valor da area do circulo.");
+  float raio, area;
+  
+  printf("Exercicío 6: Faça um algoritmo que recebe o valor do raio de um circulo e apresenta o valor da area do circulo.");
+
+  int main(void) {
+
+    const float PI = 3.14159;
+
+    printf("Digite o valor do raio do circuito: ");
+    scanf("%f", &raio);
+
+    area = PI * (raio * raio);
+
+    printf("A area do circulo com raio %.2f e: %.2f\n", raio, area);
+  }
 }
 
 void Exercicio07() {
 
-  printf("Fazer um algoritmo que calcule e mostre a area e o volume de um cilindro (A = 2r (h
+  printf("Exercicío 7: Fazer um algoritmo que calcule e mostre a area e o volume de um cilindro (A = 2r (h
+
+ int main(void) {
+
+  const float PI = 3.14159;
+
+  printf("\n===============CILINDRO=========================\n");
+
+  printf("Digite o valor do raio(r): \n");
+  scanf("%f", &raio);
+
+  printf("Digite o valor da altura(h): \n");
+  scanf("%f", &altura);
+
+  area = 2 * PI * raio * (altura + raio);
+  volume = PI * (raio * raio) * altura;
+  
+ }
 }
 
 void Exercicio08() {
+
+  printf("Exercicío 8: Escreva um algoritmo que recebe valor do salário fixo e o total de vendas efetuadas por um vendedor de uma loja durante o mês (em dinheiro). Sabendo que o vendedor ganha 15% de comissão sobre as vendas, informar o salário fixo e salário do final do mês");
 }
 
 void Exercicio09() {
+
+  printf("Exercicío 9: Ler dois valores para as variáveis A e B, efetuar as trocas de valores de forma que a variável A passe a possuir o valor da variável B e a variável B passe a possuir o valor da variável A. Apresentar valores trocados");
 }
 
 void Exercicio10() {
+
+  printf("Exercicío 10: Faça um algoritmo que mostra a quantidade de cédulas de um caixa eletrônico de um banco. O algoritmo recebe como entrada o valor inteiro a ser sacado pelo cliente, em seguida apresenta a quantidade de cada cédula que o cliente deverá receber, de forma que a quantidade de cédulas seja o menor possível."):
 }
 
 void Exercicio11() {
+  printf("Exercicío 11: Faça um algoritmo que auxiliará um funcionário de um caixa de supermecado. O algoritmo deverá receber como entrada o valor da compra do cliente e o valor pago pelo cliente, em seguida o algoritmo deverá apresentar o tronco da compra, de forma que o mesmo deve apresenar a quantidade de cédulas e moedas para compor o troco do cliente.");
 }
 
 void Exercicio12() {
+
+  printf("Exercicío 12: Fazer um algoritmo que calcule a média aritmética dos números 7, 8 e 9 e a média nos númreos 4, 5 e 6. Mostre a soma das duas médias e a médias das médias.");
 }
 
 void Exercicio13() {
+
+  printf("Exercicío 13: O preço de um automóvel é calculado pela soma do preço de fábrica, o preço dos impostos(45% do preço de fábrica) e a porcentagem do revendedor(28% do preço de fábrica). Fazer um algoritmo que leia o preço de fábrica. Calcule e mostre o preço final do carro.");
 }
 
 
