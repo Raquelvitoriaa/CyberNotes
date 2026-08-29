@@ -139,8 +139,7 @@ void Exercicio06() {
 
 void Exercicio07() {
 
-  printf("Exercicio 7: Fazer um algoritmo que calcule e mostre a area e o volume de um cilindro (A = 2r (h
-     
+  printf("Exercicio 7: Fazer um algoritmo que calcule e mostre a area e o volume de um cilindro (A = 2πr(h + r), V = πr2h)
      int main() {
 
   const float PI = 3.14159;
