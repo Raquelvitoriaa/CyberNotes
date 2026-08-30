@@ -273,18 +273,105 @@ void Exercicio11() {
       int n200, n100, n50, n20, n10, n5, n2;
       int centavos, c100, c50, c25, c10, c5, c1;  /* 100 = 1 real */
 
-      printf("");
+      printf("Valor de compra: R$");
+      scanf("%lf", &val_compra);
+      printf("Valor pago pelo Clinte: R$");
+      scanf("lf", &val_pago);
+
+      troco_total = val_pago - val_compra;
+
+      if(troco_total < 0) {
+         printf("Valor insuficiente! falta R$ %.2f\n", troco_total);
+      }else if(troco_total == 0) {
+         printf("Nao ha troco.\n");
+      }else {
+
+         printf("\nTroco Total: R$ %.2f\n", troco_total);
+
+         centavos = (int)(troco_total * 100 + 0.5);
+         n200 = centavos / 20000; centavos %= 20000;
+         n100 = centavos / 10000; centavos %= 10000;
+         n50 = centavos / 5000; centavos %= 5000;
+         n20 = centavos / 2000; centavos %= 2000;
+         n10 = centavos / 1000; centavos %= 1000;
+         n5 = centavos / 500; centavos %= 500;
+         n2 = centavos / 200; centavos %= 200;
+
+         c100 = centavos / 100; centavos %= 100;
+         c50 = centavos / 50; centavos %= 50;
+         c25 = centavos / 25; centavos %= 25;
+         c10 = centavos / 10; centavos %= 10;
+         c5 = centavos / 5; centavos %= 5;
+         c1 = centavos;
+
+         printf("\n----------Distribuicao de Trocos----------\n");
+         if(n200 > 0) printf("%d notas(s) de R$200\n", n200);
+         if(n100 > 0) printf("%d nota(s) de R$100\n", n100);
+         if(n50 > 0) printf("%d nota(s) de R$50\n", n50);
+         if(n20 > 0) printf("%d nota(s) de R$20\n", n20);
+         if(n10 > 0) printf("%d nota(s) de R$10\n", n10);
+         if(n5 > 0) printf("%d nota(s) de R$5\n", n5);
+         if(n2 > 0) printf("%d nota(s) de R$2\n", n2);
+
+         if(c100 > 0) printf("%d moeda(s) de R$1.00\n", c100);
+         if(c50 > 0) printf("%d moeda(s) de R$0.50\n", c50);
+         if(c25 > 0) printf("%d moeda(s) de R$0.25\n", c25);
+         if(c10 > 0) printf("%d moeda(s) de R$0.10\n", c10);
+         if(c5 > 0) printf("%d moeda(s) de R$0.05\n", c5);
+         if(c1 > 0) printf("%d moeda(s) de R$0.01\n", c1);
+         
+      }
    }
 }
 
 void Exercicio12() {
 
   /* Exercicio 12: Fazer um algoritmo que calcule a média aritmética dos números 7, 8 e 9 e a média nos númreos 4, 5 e 6. Mostre a soma das duas médias e a médias das médias. */
+
+   int main() {
+
+      float media1, media2, soma, media_das_medias;
+
+      media1 = (7 + 8 + 9) / 3.0;
+
+      media2 = (4 + 5 + 6) / 3.0;
+
+      soma = media1 + media2;
+      
+      media_das_medias = soma / 2.0;
+
+      printf("Media1 (7, 8, 9): %.2f\n", media1);
+      printf("Media2 (4, 5, 6): %.2f\n", media2);
+      printf("Soma das medias: %.2f\n", soma);
+      printf("Media das medias: %.2f\n", media_das_medias);
+      
+   }
 }
 
 void Exercicio13() {
 
   /* Exercicio 13: O preço de um automóvel é calculado pela soma do preço de fábrica, o preço dos impostos(45% do preço de fábrica) e a porcentagem do revendedor(28% do preço de fábrica). Fazer um algoritmo que leia o preço de fábrica. Calcule e mostre o preço final do carro. */
+
+   int main() {
+
+      float preco_fabrica, imposto, revendedor, preco_final;
+
+      printf("Digite o preco do automovel: ");
+      scanf("%f", &preco_fabrica;
+
+      imposto = preco_fabrica * 0.45;
+
+      revendedor = preco_fabrica * 0.28;
+
+      preco_final = preco_fabrica;
+
+      printf("\n----------Detalhes do Preco----------\n");
+      printf("Preco de fabrica: R$ %.2f\n", preco_fabrica);
+      printf("Valor imposto (45%%): %.2f\n", imposto);
+      printf("Valor revendedor (28%%): %.2f\n", revendedor);
+      printf("Preco final: %.2f\n", preco_final);
+      
+   }
 }
 
 
