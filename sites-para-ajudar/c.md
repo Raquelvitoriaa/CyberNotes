@@ -10,3 +10,5 @@ https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf
 **Manual de iniciante C**
 https://www.freecodecamp.org/portuguese/news/o-manual-do-iniciante-em-c-aprenda-o-basico-sobre-a-linguagem-de-programacao-c-em-apenas-algumas-horas/
 
+**Criando menu em C (site)!**
+https://www.cprogressivo.net/2013/02/Criando-um-menu-em-C.html
