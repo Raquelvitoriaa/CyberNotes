@@ -11,11 +11,6 @@ https://vercel.com/
 **Terminar a interface**
 https://www.youtube.com/watch?v=pXAGoP2G2vE
 
-**Menu (Vídeo)!**
-https://www.youtube.com/watch?v=dtzQ2T2QMVo&t=270
-
-https://pt.stackoverflow.com/questions/524456/retornar-ao-menu-em-c
-
 **Festival do dragao**
 https://www.clubedechines.com.br/blog/festival-do-barco-do-dragao/
 
