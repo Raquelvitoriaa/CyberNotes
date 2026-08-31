@@ -15,3 +15,6 @@ https://youtu.be/MktgU_fdPAY?si=XAe8bGigqX0YjDT-
 
 **Site que ajuda a criar uma interface do ZERO**
 https://www.devmedia.com.br/interface-metro-criando-um-menu-metro-com-html-e-css/31041
+
+**Tabelas de cores HTML**
+https://www.homehost.com.br/blog/tutoriais/tabela-de-cores-html/
