@@ -17,15 +17,6 @@ https://www.clubedechines.com.br/blog/festival-do-barco-do-dragao/
 **Teste-Simulador**
 https://codepen.io/gellys/pen/EdgjQW
 
-**profile readme**
-https://profile-readme-generator.com/pt-BR
-
-**Customizacao do readme**
-https://profile-readme-generator.com/pt-BR
-
-**streak status**
-https://github.com/denvercoder1/github-readme-streak-stats
-
 **Chat da IA sobre Normalização**
 https://www.perplexity.ai/search/9d7013e3-ec6d-4106-bc3b-624e1de89d28
 
