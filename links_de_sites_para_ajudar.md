@@ -14,12 +14,6 @@ https://vercel.com/
 **Terminar a interface**
 https://www.youtube.com/watch?v=pXAGoP2G2vE
 
-**Site de como criar varias pastast e dentro varios arquivos no git**
-https://www.bing.com/search?q=como+criar+um+repositorio+que+tenha+varias+pastas+e+dentro+tenha+varios+arquivos+no+github%3F%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTExNjY5ajBqMagCALACAA&FORM=ANCMS9&PC=U531
-
-**Dividir uma subpasta para criar um novo repositório**
-https://docs.github.com/pt/get-started/using-git/splitting-a-subfolder-out-into-a-new-repository
-
 **Menu (Vídeo)!**
 https://www.youtube.com/watch?v=dtzQ2T2QMVo&t=270
 
