@@ -12,3 +12,8 @@ https://www.freecodecamp.org/portuguese/news/o-manual-do-iniciante-em-c-aprenda-
 
 **Criando menu em C (site)!**
 https://www.cprogressivo.net/2013/02/Criando-um-menu-em-C.html
+
+**Menu C (Vídeo)!**
+https://www.youtube.com/watch?v=dtzQ2T2QMVo&t=270
+
+https://pt.stackoverflow.com/questions/524456/retornar-ao-menu-em-c
