@@ -1,3 +1,5 @@
+// TESTE
+
 #include <stdio.h>
 #define COMISSAO 0.3
 
@@ -23,5 +25,28 @@ int main()
 	printf("Digite o valor de B: ");
 	scanf("%d", &b);
 	printf("%d + %d = %d\n", a, b, SOMA(a,b));
+	return 0;
+}
+
+---
+
+	#include <stdio.h>
+#define escreva printf
+
+int main()
+{
+	escreva("Digite o valor de A: ");
+	return 0;
+}
+
+---
+
+	#include <stdio.h>
+
+int main()
+{
+	int x=10, y=3;
+	float z = x / y;
+printf("Valor de z : %.2f\n", z);
 	return 0;
 }
