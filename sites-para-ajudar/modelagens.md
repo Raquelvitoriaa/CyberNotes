@@ -2,6 +2,9 @@
 
 **Modelagem de Dados - Playlist**<br> https://www.youtube.com/watch?v=Q_KTYFgvu1s&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD
 
+**Diagrama de Chapin**
+https://www.devmedia.com.br/fluxogramas-diagrama-de-blocos-e-de-chapin-no-desenvolvimento-de-algoritmos/28550
+
 **Modelagem Conceitual**
 https://www.devmedia.com.br/introducao-a-modelagem-conceitual/10793
 
