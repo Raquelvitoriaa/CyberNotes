@@ -1,0 +1,19 @@
+body {
+    background-color: #f1f2f3;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+h2 {
+    color: #9c0f0f;
+}
+
+/*Propriedades para formatacao do texto. O texto sera alinhado a direita com azul e fonte arial*/
+
+p {
+    text-align: right;
+    color: rgb(25, 25, 194);
+    font-family: arial;
+}
