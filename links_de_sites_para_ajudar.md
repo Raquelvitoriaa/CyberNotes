@@ -5,11 +5,8 @@ https://ficr.pergamum.com.br/
 **Site de Diagrama**
 https://mermaid.js.org/
 
-**site de sla**
+**site de Vercel**
 https://vercel.com/
-
-**Terminar a interface**
-https://www.youtube.com/watch?v=pXAGoP2G2vE
 
 **Festival do dragao**
 https://www.clubedechines.com.br/blog/festival-do-barco-do-dragao/
