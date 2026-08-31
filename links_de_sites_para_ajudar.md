@@ -28,9 +28,6 @@ https://www.bing.com/search?q=como+criar+um+repositorio+que+tenha+varias+pastas+
 **Dividir uma subpasta para criar um novo repositório**
 https://docs.github.com/pt/get-started/using-git/splitting-a-subfolder-out-into-a-new-repository
 
-**Criando menu em C (site)!**
-https://www.cprogressivo.net/2013/02/Criando-um-menu-em-C.html
-
 **Menu (Vídeo)!**
 https://www.youtube.com/watch?v=dtzQ2T2QMVo&t=270
 
