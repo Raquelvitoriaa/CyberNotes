@@ -50,3 +50,77 @@ int main()
 printf("Valor de z : %.2f\n", z);
 	return 0;
 }
+
+---
+
+	#include <stdio.h>
+
+int f1()
+{
+	int x = 5;
+    printf("Valor de x : %i\n", x);
+	return 0;
+}
+
+int main()
+{
+	int x = 10;
+	f1();
+    printf("Valor de x : %i\n", x);
+	return 0;
+}
+
+---
+
+	#include <stdio.h>
+
+int f1()
+{
+	int x = 5;
+    printf("Endereco de x na funcao f1() : %i\n", &x);
+	return 0;
+}
+
+int main()
+{
+	int x = 10;
+	f1();
+    printf("Endereco de x na funcao main() : %i\n", &x);
+	return 0;
+} 
+
+---
+
+	#include <stdio.h>
+
+int main()
+{
+	int x=20,y=30 ;
+	if (x>0)
+	{
+		int x=10;
+		printf("Valor de x+y: %i\n", x+y);
+	}
+	printf("Valor de x+y: %i\n", x+y);
+	return 0;
+}
+
+---
+	
+	#include <stdio.h>
+
+int x = 10;
+
+int f1()
+{
+		printf("Valor de x: %i\n", x);
+		return 0;
+}
+
+int main()
+{
+    
+	printf("Valor de x: %i\n", x);
+	f1();
+	return 0;
+}
