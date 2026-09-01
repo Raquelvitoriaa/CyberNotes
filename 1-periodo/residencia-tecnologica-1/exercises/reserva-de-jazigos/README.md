@@ -6,6 +6,10 @@ Sistema em **Linguagem C** para gerenciamento de clientes e controle de jazigos 
 
 # OBJETIVOS
 
+- **Gerenciar** clientes e responsáveis;
+- **Controlar** disponobilidade, reserva e ocupação de jazigos;
+- **Organizar** dados cadastrais estruturados.
+
 ---
 
 # Desenvolvido por:
