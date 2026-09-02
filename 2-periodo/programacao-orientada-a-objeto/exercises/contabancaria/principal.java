@@ -59,3 +59,47 @@ public class Principal {
     }
 }
 
+---
+
+    package main;
+
+import conta.ContaBancaria;
+
+public class Principal {
+    public static void main (String[] args){
+        ContaBancaria contaPF = new ContaBancaria(00000, 658, null, null);
+        ContaBancaria contaPj = new ContaBancaria(00000, 658, null, null);
+
+        //Criando informações de um objeto pessoal física
+        contaPF.setNunConta(215680);
+        contaPF.saldo = 100;
+        contaPF.titular = "Eduardo da Silva";
+        contaPF.tipoConta = "Pessoa Fisica";
+
+        contaPF.depositar(500.00);
+        contaPF.sacar(50.00);
+        double saldoFinal = contaPF.consultarSaldo();
+
+       // Criando informações de  um objeto pessoa juridica
+        contaPj.setNunConta(215680);
+        contaPj.titular = "Padaria O Sonho";
+        contaPj.tipoConta = "Pessoa Juridica";
+
+        contaPj.depositar(500.00);
+        contaPj.sacar(50.00);
+
+        // Converter um valor double para um valor inteiro
+        double total = 250.35;
+        int totalConvertido = (int) total;
+
+        //Converter um valor de string para um valor inteiro
+        String idade = "25";
+        int idadeConvertida = Integer.parseInt(idade);
+
+        //Converter um valor boolean para String
+        boolean aceita = true;
+        String aceitaConvertido = String.valueOf(aceita);
+    }
+}
+
+    
