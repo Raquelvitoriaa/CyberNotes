@@ -35,6 +35,7 @@ public class Principal {
 
         contaPF.depositar(500.00);
         contaPF.sacar(50.00);
+        double saldoFinal = contaPF.consultarSaldo();
         
        // Criando informações de  um objeto pessoa juridica
         contaPj.numConta = 632659;
