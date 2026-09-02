@@ -1,4 +1,5 @@
 public class ContaBancaria {
+    
     int numConta, agencia;
     String titular, tipoConta;
     double saldo = 0.00;
