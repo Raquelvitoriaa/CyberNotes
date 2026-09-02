@@ -37,6 +37,11 @@ public class ContaBancaria {
     public void sacar(double valor){
         saldo -= valor;
     }
+
+     public double consultarSaldo(){
+        saldo = saldo - TAXA_MANUTENCAO_CONTA;
+        return saldo;
+    }
 }
 
 
