@@ -1,4 +1,4 @@
-public class LojaLivros {
+public class Principal {
     
     public static void main(String[] args) {
         
@@ -7,7 +7,6 @@ public class LojaLivros {
 
 
        System.out.print("Digite o titulo do livro: ");
-       // String titulo = input.nextLine();
        livroProgramacao.setTitulo(input.nextLine());
        System.out.println("O título do livro é: \"" + livroProgramacao.getTitulo() + "\"");
 
@@ -41,3 +40,4 @@ public class LojaLivros {
 
 // System.out.print("O Autor é: " + livroProgramacao.getAutor() + "\n");
       // System.out.printf("O ano do livro é: %d e o valor: %.2f", livroProgramacao.getAnoPublicacao(), livroProgramacao.getValor());
+ // String titulo = input.nextLine();
