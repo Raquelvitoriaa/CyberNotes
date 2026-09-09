@@ -1,5 +1,7 @@
 public class LojaLivros {
+    
     public static void main(String[] args) {
+        
        Livro livroProgramacao = new Livro(null, null, null, null, 0, 0, 0.00);
         Scanner input = new Scanner(System.in);
 
@@ -13,6 +15,14 @@ public class LojaLivros {
        livroProgramacao.setAutor(input.nextLine());
        System.out.println("O nome do Autor é:" + livroProgramacao.getAutor());
 
+       System.out.print("Digite o nome da Editora: ");
+       livroProgramacao.setEditora(input.nextLine());
+       System.out.println("A Editora é: " + livroProgramacao.getEditora());
+
+       System.out.print("Digite a Isbn: " );
+       livroProgramacao.setIsbn(input.nextLine());
+       System.out.println("A Isbn é: " + livroProgramacao.getIsbn());
+        
        System.out.print("Digite o numero de paginas: ");
        livroProgramacao.setNumeroPaginas(input.nextInt());
        System.out.println("O numero de paginas sao:" + livroProgramacao.getNumeroPaginas());
