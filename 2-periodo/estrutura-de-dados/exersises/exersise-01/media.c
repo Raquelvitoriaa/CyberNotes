@@ -16,7 +16,9 @@ int main()
 		printf("RECUPERACAO");
 	else
 		printf("APROVADO!");
+	 
 	 /* Operador Ternário
 	 printf(media < 5 ? "REPROVADO" : media <7 ? "RECUPERACAO" : "APROVADO");*/
+	 
 	return 0;
 }
