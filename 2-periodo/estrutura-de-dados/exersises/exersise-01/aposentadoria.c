@@ -15,8 +15,6 @@ int main()
 	if(sexo=='M' && tempo >= 35 || sexo=='F' && tempo >= 25)
 		printf("APOSENTADO(A)");
 	else
-	{
 		printf("NA ATIVA!");
-	}
 	return 0;
 }
