@@ -18,6 +18,7 @@ public class LojaLivros {
         System.out.println("4. Sair");
         System.out.println("Digite uma opção: ");
         op = input.nextInt();
+        input.nextLine();
 
        switch (op){
           case 1:
