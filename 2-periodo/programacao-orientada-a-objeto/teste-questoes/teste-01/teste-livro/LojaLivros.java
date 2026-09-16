@@ -49,39 +49,7 @@ public class LojaLivros {
           default:
              System.out.println("Opção inválida. Digite outra opção!");
        }
-        System.out.println("FIM DO PROGRAMA!");
-       input.close();
-
-
-       System.out.print("Digite o titulo do livro: ");
-       livroProgramacao.setTitulo(input.nextLine());
-
-       System.out.print("Digite o nome do Autor: ");
-       livroProgramacao.setAutor(input.nextLine());
-
-       System.out.print("Digite o nome da Editora: ");
-       livroProgramacao.setEditora(input.nextLine());
-
-       System.out.print("Digite a Isbn: " );
-       livroProgramacao.setIsbn(input.nextLine());
-
-       System.out.print("Digite o numero de paginas: ");
-       livroProgramacao.setNumeroPaginas(input.nextInt());
-      
-       System.out.print("Digite o ano do livro: ");
-       livroProgramacao.setAnoPublicacao(input.nextInt());
-      
-       System.out.print("Digite o valor do livro: ");
-       livroProgramacao.setValor(input.nextInt());
-      
-       livroProgramacao.setEstoque(100);
-       System.out.println("\nQuantidade de livros em estoque " + livroProgramacao.consultarEstoque());
-
-       System.out.print("Digite o total de vendas diarias: ");
-       livroProgramacao.setVendasDiarias(input.nextInt());
-
-       System.out.println("\nO seu desempenho foi: " + livroProgramacao.calcularBonusCorporativo() + "\nE o seu bonus e: " + livroProgramacao.getBonusAtivo());
-
+        System.out.println("\nFIM DO PROGRAMA!");
        input.close();
     }
 }
