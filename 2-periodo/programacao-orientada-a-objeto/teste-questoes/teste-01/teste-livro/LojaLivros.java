@@ -57,7 +57,18 @@ public class LojaLivros {
 
 
 
-/* System.out.print("Digite o titulo do livro: ");
+/*package principal;
+
+import acervo.Livro;
+
+import java.util.Scanner;
+
+public class LojaLivros {
+   public static void main(String[] args) {
+      Livro livroProgramacao = new Livro(null, null, null, null, 0, 0, 0.00);
+      Scanner input = new Scanner(System.in);
+
+ System.out.print("Digite o titulo do livro: ");
        // String titulo = input.nextLine();
        livroProgramacao.setTitulo(input.nextLine());
        //System.out.println("O título do livro é: \"" + livroProgramacao.getTitulo() + "\"");
